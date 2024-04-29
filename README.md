@@ -12,7 +12,7 @@ Este proyecto consiste en un servidor y un cliente simple que se comunican a tra
 - `cliente` : g++ ./client/client.cpp -o server.o
 # Acciones Ejecutables
 
-Este proyecto contiene un conjunto de acciones ejecutables que pueden ser manejadas por el servidor. A continuación se describen estas acciones y las funciones asociadas que las manejan:
+Este proyecto contiene un conjunto de acciones ejecutables que pueden ser manejadas por el cliente. A continuación se describen estas acciones y las funciones asociadas que las manejan:
 
 ## Acciones del Cliente
 
