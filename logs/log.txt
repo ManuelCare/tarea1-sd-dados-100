@@ -1,0 +1,1470 @@
+[INFO 2024-04-28 13:42:08.168] Server starting...
+[INFO 2024-04-28 13:42:08.169] starting I/O Queues...
+[INFO 2024-04-28 13:42:08.169] I/O Queues started.
+[INFO 2024-04-28 13:42:08.169] starting Input Handling Thread...
+[INFO 2024-04-28 13:42:08.169] Input Handling started.
+[INFO 2024-04-28 13:42:08.169] starting Game Thread...
+[INFO 2024-04-28 13:42:08.169] Game Thread started.
+[INFO 2024-04-28 13:42:08.169] setting socket...
+[INFO 2024-04-28 13:42:08.169] socket set.
+[INFO 2024-04-28 13:42:08.169] Server started.
+[USER 2024-04-28 13:42:11.515] help
+[INFO 2024-04-28 13:42:11.515] Here is a list of commands:
+	stop: ends the program.
+	help: shows available commands.
+[USER 2024-04-28 13:42:13.552] stop
+[INFO 2024-04-28 13:42:13.552] Server stopping...
+[INFO 2024-04-28 13:42:13.561] Server stopped.
+[INFO 2024-04-28 15:58:50.857] Server starting...
+[INFO 2024-04-28 15:58:50.857] starting I/O Queues...
+[INFO 2024-04-28 15:58:50.857] I/O Queues started.
+[INFO 2024-04-28 15:58:50.857] starting Input Handling Thread...
+[INFO 2024-04-28 15:58:50.857] Input Handling started.
+[INFO 2024-04-28 15:58:50.857] starting Game Thread...
+[INFO 2024-04-28 15:58:50.857] Game Thread started.
+[INFO 2024-04-28 15:58:50.857] setting socket...
+[INFO 2024-04-28 15:58:50.857] socket set.
+[INFO 2024-04-28 15:58:50.857] Server started.
+[USER 2024-04-28 15:58:54.547] stop
+[INFO 2024-04-28 15:58:54.547] Server stopping...
+[INFO 2024-04-28 15:58:54.549] Server stopped.
+[INFO 2024-04-28 16:26:30.623] Server starting...
+[INFO 2024-04-28 16:26:30.623] starting I/O Queues...
+[INFO 2024-04-28 16:26:30.623] I/O Queues started.
+[INFO 2024-04-28 16:26:30.623] starting Input Handling Thread...
+[INFO 2024-04-28 16:26:30.623] Input Handling started.
+[INFO 2024-04-28 16:26:30.623] starting Game Thread...
+[INFO 2024-04-28 16:26:30.623] Game Thread started.
+[INFO 2024-04-28 16:26:30.624] setting socket...
+[INFO 2024-04-28 16:26:30.624] socket set.
+[INFO 2024-04-28 16:26:30.624] Server started.
+[USER 2024-04-28 16:26:32.610] stop
+[INFO 2024-04-28 16:26:32.610] Server stopping...
+[INFO 2024-04-28 16:26:32.613] Server stopped.
+[INFO 2024-04-28 18:37:54.926] Server starting...
+[INFO 2024-04-28 18:37:54.926] starting I/O Queues...
+[INFO 2024-04-28 18:37:54.926] I/O Queues started.
+[INFO 2024-04-28 18:37:54.926] starting Input Handling Thread...
+[INFO 2024-04-28 18:37:54.926] Input Handling started.
+[INFO 2024-04-28 18:37:54.926] starting Game Thread...
+[INFO 2024-04-28 18:37:54.926] Game Thread started.
+[INFO 2024-04-28 18:37:54.926] setting socket...
+[INFO 2024-04-28 18:37:54.926] socket set.
+[INFO 2024-04-28 18:37:54.926] Server started.
+[USER 2024-04-28 18:37:56.074] stop
+[INFO 2024-04-28 18:37:56.074] Server stopping...
+[INFO 2024-04-28 18:37:56.081] Server stopped.
+[INFO 2024-04-28 19:13:55.377] Server starting...
+[INFO 2024-04-28 19:13:55.377] starting I/O Queues...
+[INFO 2024-04-28 19:13:55.377] I/O Queues started.
+[INFO 2024-04-28 19:13:55.377] starting Input Handling Thread...
+[INFO 2024-04-28 19:13:55.377] Input Handling started.
+[INFO 2024-04-28 19:13:55.377] starting Game Thread...
+[INFO 2024-04-28 19:13:55.377] Game Thread started.
+[INFO 2024-04-28 19:13:55.377] setting socket...
+[INFO 2024-04-28 19:13:55.377] socket set.
+[INFO 2024-04-28 19:13:55.377] Server started.
+[USER 2024-04-28 19:13:58.462] srtop
+[ERROR 2024-04-28 19:13:58.462] Invalid input. Please try again or type 'help' to show available commands.
+[USER 2024-04-28 19:14:00.761] stop
+[INFO 2024-04-28 19:14:00.761] Server stopping...
+[INFO 2024-04-28 19:14:00.769] Server stopped.
+[INFO 2024-04-28 19:41:30.816] Server starting...
+[INFO 2024-04-28 19:41:30.816] starting I/O Queues...
+[INFO 2024-04-28 19:41:30.816] I/O Queues started.
+[INFO 2024-04-28 19:41:30.816] starting Input Handling Thread...
+[INFO 2024-04-28 19:41:30.816] Input Handling started.
+[INFO 2024-04-28 19:41:30.816] starting Game Thread...
+[INFO 2024-04-28 19:41:30.817] Game Thread started.
+[INFO 2024-04-28 19:41:30.817] setting socket...
+[INFO 2024-04-28 19:41:30.817] socket set.
+[INFO 2024-04-28 19:41:30.817] Server started.
+[INFO 2024-04-28 19:41:35.747] Package received from 127.0.0.1:44059
+[INFO 2024-04-28 19:41:35.748] Package: {"action":"connect","ip":"127.0.0.1","port":20001}
+[ERROR 2024-04-28 19:41:35.748] Invalid package received.
+[INFO 2024-04-28 19:42:32.743] Package received from 127.0.0.1:49455
+[INFO 2024-04-28 19:42:32.743] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 19:42:32.744] package pushed into input queue.
+[INFO 2024-04-28 19:42:32.744] Package pulled from input queue.
+[INFO 2024-04-28 19:42:32.744] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":49455}
+[INFO 2024-04-28 19:42:32.753] Message sent to 127.0.0.1:49455, containing: {"action":"connect","data":"successful"}
+[USER 2024-04-28 19:51:55.959] [A[Bstop
+[ERROR 2024-04-28 19:51:55.960] Invalid input. Please try again or type 'help' to show available commands.
+[USER 2024-04-28 19:51:57.821] stop
+[INFO 2024-04-28 19:51:57.821] Server stopping...
+[INFO 2024-04-28 19:51:57.825] Server stopped.
+[INFO 2024-04-28 20:27:38.386] Server starting...
+[INFO 2024-04-28 20:27:38.386] starting I/O Queues...
+[INFO 2024-04-28 20:27:38.386] I/O Queues started.
+[INFO 2024-04-28 20:27:38.386] starting Input Handling Thread...
+[INFO 2024-04-28 20:27:38.387] Input Handling started.
+[INFO 2024-04-28 20:27:38.387] starting Game Thread...
+[INFO 2024-04-28 20:27:38.387] Game Thread started.
+[INFO 2024-04-28 20:27:38.387] setting socket...
+[INFO 2024-04-28 20:27:38.387] socket set.
+[INFO 2024-04-28 20:27:38.387] Server started.
+[INFO 2024-04-28 20:27:45.795] Package received from 127.0.0.1:47035
+[INFO 2024-04-28 20:27:45.796] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 20:27:45.796] package pushed into input queue.
+[INFO 2024-04-28 20:27:45.796] Package pulled from input queue.
+[INFO 2024-04-28 20:27:45.796] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":47035}
+[INFO 2024-04-28 20:27:45.801] Message sent to 127.0.0.1:47035, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 20:27:52.037] Package received from 127.0.0.1:47035
+[INFO 2024-04-28 20:27:52.038] Package: {"action":"create","data":""}
+[INFO 2024-04-28 20:27:52.038] package pushed into input queue.
+[INFO 2024-04-28 20:27:52.038] Package pulled from input queue.
+[INFO 2024-04-28 20:27:52.038] response created: {"action":"join","data":"failure","ip":"127.0.0.1","port":47035}
+[INFO 2024-04-28 20:27:52.045] Message sent to 127.0.0.1:47035, containing: {"action":"join","data":"failure"}
+[INFO 2024-04-28 20:29:32.572] Package received from 127.0.0.1:40850
+[INFO 2024-04-28 20:29:32.572] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 20:29:32.572] package pushed into input queue.
+[INFO 2024-04-28 20:29:32.572] Package pulled from input queue.
+[INFO 2024-04-28 20:29:32.572] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":40850}
+[INFO 2024-04-28 20:29:32.581] Message sent to 127.0.0.1:40850, containing: {"action":"connect","data":"successful"}
+[USER 2024-04-28 20:30:00.239] stop
+[INFO 2024-04-28 20:30:00.239] Server stopping...
+[INFO 2024-04-28 20:30:00.241] Server stopped.
+[INFO 2024-04-28 20:47:57.468] Server starting...
+[INFO 2024-04-28 20:47:57.469] starting I/O Queues...
+[INFO 2024-04-28 20:47:57.469] I/O Queues started.
+[INFO 2024-04-28 20:47:57.469] starting Input Handling Thread...
+[INFO 2024-04-28 20:47:57.469] Input Handling started.
+[INFO 2024-04-28 20:47:57.469] starting Game Thread...
+[INFO 2024-04-28 20:47:57.469] Game Thread started.
+[INFO 2024-04-28 20:47:57.469] setting socket...
+[INFO 2024-04-28 20:47:57.469] socket set.
+[INFO 2024-04-28 20:47:57.469] Server started.
+[INFO 2024-04-28 20:48:01.773] Package received from 127.0.0.1:37021
+[INFO 2024-04-28 20:48:01.773] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 20:48:01.773] package pushed into input queue.
+[INFO 2024-04-28 20:48:01.773] Package pulled from input queue.
+[INFO 2024-04-28 20:48:01.773] New player connected: 127.0.0.1:37021
+[INFO 2024-04-28 20:48:01.773] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":37021}
+[INFO 2024-04-28 20:48:01.785] Message sent to 127.0.0.1:37021, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 20:48:06.959] Package received from 127.0.0.1:37021
+[INFO 2024-04-28 20:48:06.960] Package: {"action":"create","data":""}
+[INFO 2024-04-28 20:48:06.960] package pushed into input queue.
+[INFO 2024-04-28 20:48:06.960] Package pulled from input queue.
+[INFO 2024-04-28 20:48:16.555] Package received from 127.0.0.1:37021
+[INFO 2024-04-28 20:48:16.555] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 20:48:16.555] package pushed into input queue.
+[INFO 2024-04-28 20:48:16.555] Package pulled from input queue.
+[INFO 2024-04-28 20:48:16.555] response created: {"action":"game_info","data":"{\"round\":0,\"teams\":[],\"waiting\":[]}","ip":"127.0.0.1","port":37021}
+[INFO 2024-04-28 20:48:16.565] Message sent to 127.0.0.1:37021, containing: {"action":"game_info","data":"{\"round\":0,\"teams\":[],\"waiting\":[]}"}
+[INFO 2024-04-28 20:49:57.712] Package received from 127.0.0.1:37021
+[INFO 2024-04-28 20:49:57.713] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 20:49:57.713] package pushed into input queue.
+[INFO 2024-04-28 20:49:57.713] Package pulled from input queue.
+[INFO 2024-04-28 20:49:57.713] response created: {"action":"lobby_info","data":"[]","ip":"127.0.0.1","port":37021}
+[INFO 2024-04-28 20:49:57.725] Message sent to 127.0.0.1:37021, containing: {"action":"lobby_info","data":"[]"}
+[INFO 2024-04-28 20:50:11.413] Package received from 127.0.0.1:37021
+[INFO 2024-04-28 20:50:11.413] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 20:50:11.413] package pushed into input queue.
+[INFO 2024-04-28 20:50:11.413] Package pulled from input queue.
+[INFO 2024-04-28 20:50:11.413] response created: {"action":"game_info","data":"{\"round\":0,\"teams\":[],\"waiting\":[]}","ip":"127.0.0.1","port":37021}
+[INFO 2024-04-28 20:50:11.421] Message sent to 127.0.0.1:37021, containing: {"action":"game_info","data":"{\"round\":0,\"teams\":[],\"waiting\":[]}"}
+[USER 2024-04-28 20:50:15.189] stop
+[INFO 2024-04-28 20:50:15.190] Server stopping...
+[INFO 2024-04-28 20:50:15.193] Server stopped.
+[INFO 2024-04-28 20:56:16.926] Server starting...
+[INFO 2024-04-28 20:56:16.927] starting I/O Queues...
+[INFO 2024-04-28 20:56:16.927] I/O Queues started.
+[INFO 2024-04-28 20:56:16.927] starting Input Handling Thread...
+[INFO 2024-04-28 20:56:16.927] Input Handling started.
+[INFO 2024-04-28 20:56:16.927] starting Game Thread...
+[INFO 2024-04-28 20:56:16.927] Game Thread started.
+[INFO 2024-04-28 20:56:16.927] setting socket...
+[INFO 2024-04-28 20:56:16.927] socket set.
+[INFO 2024-04-28 20:56:16.927] Server started.
+[INFO 2024-04-28 20:56:24.469] Package received from 127.0.0.1:54725
+[INFO 2024-04-28 20:56:24.469] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 20:56:24.469] package pushed into input queue.
+[INFO 2024-04-28 20:56:24.470] Package pulled from input queue.
+[INFO 2024-04-28 20:56:24.470] New player connected: 127.0.0.1:54725
+[INFO 2024-04-28 20:56:24.470] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":54725}
+[INFO 2024-04-28 20:56:24.477] Message sent to 127.0.0.1:54725, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 20:56:28.360] Package received from 127.0.0.1:54725
+[INFO 2024-04-28 20:56:28.360] Package: {"action":"create","data":""}
+[INFO 2024-04-28 20:56:28.360] package pushed into input queue.
+[INFO 2024-04-28 20:56:28.360] Package pulled from input queue.
+[INFO 2024-04-28 20:56:35.960] Package received from 127.0.0.1:54725
+[INFO 2024-04-28 20:56:35.960] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 20:56:35.960] package pushed into input queue.
+[INFO 2024-04-28 20:56:35.960] Package pulled from input queue.
+[INFO 2024-04-28 20:56:35.960] response created: {"action":"game_info","data":"{\"round\":0,\"teams\":[],\"waiting\":[]}","ip":"127.0.0.1","port":54725}
+[INFO 2024-04-28 20:56:35.965] Message sent to 127.0.0.1:54725, containing: {"action":"game_info","data":"{\"round\":0,\"teams\":[],\"waiting\":[]}"}
+[INFO 2024-04-28 20:56:44.071] Package received from 127.0.0.1:54725
+[INFO 2024-04-28 20:56:44.071] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 20:56:44.071] package pushed into input queue.
+[INFO 2024-04-28 20:56:44.071] Package pulled from input queue.
+[INFO 2024-04-28 20:56:44.071] response created: {"action":"lobby_info","data":"[]","ip":"127.0.0.1","port":54725}
+[INFO 2024-04-28 20:56:44.077] Message sent to 127.0.0.1:54725, containing: {"action":"lobby_info","data":"[]"}
+[INFO 2024-04-28 20:56:52.252] Package received from 127.0.0.1:54725
+[INFO 2024-04-28 20:56:52.252] Package: {"action":"create","data":""}
+[INFO 2024-04-28 20:56:52.252] package pushed into input queue.
+[INFO 2024-04-28 20:56:52.252] Package pulled from input queue.
+[INFO 2024-04-28 20:57:11.556] Package received from 127.0.0.1:39796
+[INFO 2024-04-28 20:57:11.556] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 20:57:11.556] package pushed into input queue.
+[INFO 2024-04-28 20:57:11.556] Package pulled from input queue.
+[INFO 2024-04-28 20:57:11.556] New player connected: 127.0.0.1:39796
+[INFO 2024-04-28 20:57:11.556] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":39796}
+[INFO 2024-04-28 20:57:11.565] Message sent to 127.0.0.1:39796, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 20:57:13.105] Package received from 127.0.0.1:39796
+[INFO 2024-04-28 20:57:13.105] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 20:57:13.106] package pushed into input queue.
+[INFO 2024-04-28 20:57:13.106] Package pulled from input queue.
+[INFO 2024-04-28 20:57:13.106] response created: {"action":"game_info","data":"{\"round\":0,\"teams\":[],\"waiting\":[]}","ip":"127.0.0.1","port":39796}
+[INFO 2024-04-28 20:57:13.113] Message sent to 127.0.0.1:39796, containing: {"action":"game_info","data":"{\"round\":0,\"teams\":[],\"waiting\":[]}"}
+[USER 2024-04-28 20:59:05.668] stop
+[INFO 2024-04-28 20:59:05.668] Server stopping...
+[INFO 2024-04-28 20:59:05.677] Server stopped.
+[INFO 2024-04-28 21:01:33.293] Server starting...
+[INFO 2024-04-28 21:01:33.294] starting I/O Queues...
+[INFO 2024-04-28 21:01:33.294] I/O Queues started.
+[INFO 2024-04-28 21:01:33.294] starting Input Handling Thread...
+[INFO 2024-04-28 21:01:33.294] Input Handling started.
+[INFO 2024-04-28 21:01:33.294] starting Game Thread...
+[INFO 2024-04-28 21:01:33.294] Game Thread started.
+[INFO 2024-04-28 21:01:33.294] setting socket...
+[INFO 2024-04-28 21:01:33.294] socket set.
+[INFO 2024-04-28 21:01:33.294] Server started.
+[INFO 2024-04-28 21:01:36.357] Package received from 127.0.0.1:58345
+[INFO 2024-04-28 21:01:36.357] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 21:01:36.358] package pushed into input queue.
+[INFO 2024-04-28 21:01:36.358] Package pulled from input queue.
+[INFO 2024-04-28 21:01:36.358] New player connected: 127.0.0.1:58345
+[INFO 2024-04-28 21:01:36.358] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":58345}
+[INFO 2024-04-28 21:01:36.365] Message sent to 127.0.0.1:58345, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 21:01:49.716] Package received from 127.0.0.1:58345
+[INFO 2024-04-28 21:01:49.716] Package: {"action":"lobby","data":""}
+[INFO 2024-04-28 21:01:49.716] package pushed into input queue.
+[INFO 2024-04-28 21:01:49.716] Package pulled from input queue.
+[ERROR 2024-04-28 21:01:49.716] Bad Action: lobby
+[INFO 2024-04-28 21:01:52.596] Package received from 127.0.0.1:58345
+[INFO 2024-04-28 21:01:52.596] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 21:01:52.596] package pushed into input queue.
+[INFO 2024-04-28 21:01:52.596] Package pulled from input queue.
+[INFO 2024-04-28 21:01:52.596] response created: {"action":"lobby_info","data":"[]","ip":"127.0.0.1","port":58345}
+[INFO 2024-04-28 21:01:52.605] Message sent to 127.0.0.1:58345, containing: {"action":"lobby_info","data":"[]"}
+[INFO 2024-04-28 21:01:54.901] Package received from 127.0.0.1:58345
+[INFO 2024-04-28 21:01:54.902] Package: {"action":"create","data":""}
+[INFO 2024-04-28 21:01:54.902] package pushed into input queue.
+[INFO 2024-04-28 21:01:54.902] Package pulled from input queue.
+[INFO 2024-04-28 21:01:59.075] Package received from 127.0.0.1:58345
+[INFO 2024-04-28 21:01:59.075] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 21:01:59.075] package pushed into input queue.
+[INFO 2024-04-28 21:01:59.075] Package pulled from input queue.
+[INFO 2024-04-28 21:01:59.075] response created: {"action":"lobby_info","data":"[{\"id\":\"17143525149029233\",\"maxPlayers\":10,\"maxPositions\":100,\"maxRoll\":6,\"minRoll\":1,\"owner\":\"127.0.0.158345\",\"players\":1,\"status\":\"in lobby\"}]","ip":"127.0.0.1","port":58345}
+[INFO 2024-04-28 21:01:59.081] Message sent to 127.0.0.1:58345, containing: {"action":"lobby_info","data":"[{\"id\":\"17143525149029233\",\"maxPlayers\":10,\"maxPositions\":100,\"maxRoll\":6,\"minRoll\":1,\"owner\":\"127.0.0.158345\",\"players\":1,\"status\":\"in lobby\"}]"}
+[USER 2024-04-28 21:02:12.318] stop
+[INFO 2024-04-28 21:02:12.318] Server stopping...
+[INFO 2024-04-28 21:02:12.321] Server stopped.
+[INFO 2024-04-28 21:07:47.004] Server starting...
+[INFO 2024-04-28 21:07:47.004] starting I/O Queues...
+[INFO 2024-04-28 21:07:47.004] I/O Queues started.
+[INFO 2024-04-28 21:07:47.004] starting Input Handling Thread...
+[INFO 2024-04-28 21:07:47.004] Input Handling started.
+[INFO 2024-04-28 21:07:47.004] starting Game Thread...
+[INFO 2024-04-28 21:07:47.004] Game Thread started.
+[INFO 2024-04-28 21:07:47.004] setting socket...
+[INFO 2024-04-28 21:07:47.004] socket set.
+[INFO 2024-04-28 21:07:47.004] Server started.
+[USER 2024-04-28 21:07:50.138] stop
+[INFO 2024-04-28 21:07:50.139] Server stopping...
+[INFO 2024-04-28 21:07:50.141] Server stopped.
+[INFO 2024-04-28 21:12:05.703] Server starting...
+[INFO 2024-04-28 21:12:05.703] starting I/O Queues...
+[INFO 2024-04-28 21:12:05.703] I/O Queues started.
+[INFO 2024-04-28 21:12:05.703] starting Input Handling Thread...
+[INFO 2024-04-28 21:12:05.703] Input Handling started.
+[INFO 2024-04-28 21:12:05.703] starting Game Thread...
+[INFO 2024-04-28 21:12:05.703] Game Thread started.
+[INFO 2024-04-28 21:12:05.703] setting socket...
+[INFO 2024-04-28 21:12:05.703] socket set.
+[INFO 2024-04-28 21:12:05.703] Server started.
+[INFO 2024-04-28 21:12:08.642] Package received from 127.0.0.1:50080
+[INFO 2024-04-28 21:12:08.642] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 21:12:08.642] package pushed into input queue.
+[INFO 2024-04-28 21:12:08.642] Package pulled from input queue.
+[INFO 2024-04-28 21:12:08.642] New player connected: 127.0.0.1:50080
+[INFO 2024-04-28 21:12:08.642] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":50080}
+[INFO 2024-04-28 21:12:08.653] Message sent to 127.0.0.1:50080, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 21:12:10.472] Package received from 127.0.0.1:50080
+[INFO 2024-04-28 21:12:10.472] Package: {"action":"create","data":""}
+[INFO 2024-04-28 21:12:10.472] package pushed into input queue.
+[INFO 2024-04-28 21:12:10.472] Package pulled from input queue.
+[INFO 2024-04-28 21:12:15.639] Package received from 127.0.0.1:50080
+[INFO 2024-04-28 21:12:15.639] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 21:12:15.639] package pushed into input queue.
+[INFO 2024-04-28 21:12:15.639] Package pulled from input queue.
+[INFO 2024-04-28 21:12:15.639] response created: {"action":"lobby_info","data":[{"id":"17143531304721253","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.150080","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":50080}
+[INFO 2024-04-28 21:12:15.645] Message sent to 127.0.0.1:50080, containing: {"action":"lobby_info","data":[{"id":"17143531304721253","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.150080","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 21:13:15.446] Package received from 127.0.0.1:39471
+[INFO 2024-04-28 21:13:15.446] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 21:13:15.446] package pushed into input queue.
+[INFO 2024-04-28 21:13:15.446] Package pulled from input queue.
+[INFO 2024-04-28 21:13:15.446] response created: {"action":"lobby_info","data":[{"id":"17143531304721253","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.150080","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":39471}
+[INFO 2024-04-28 21:13:15.457] Message sent to 127.0.0.1:39471, containing: {"action":"lobby_info","data":[{"id":"17143531304721253","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.150080","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 21:13:26.133] Package received from 127.0.0.1:50080
+[INFO 2024-04-28 21:13:26.133] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 21:13:26.133] package pushed into input queue.
+[INFO 2024-04-28 21:13:26.133] Package pulled from input queue.
+[INFO 2024-04-28 21:13:26.133] response created: {"action":"lobby_info","data":[{"id":"17143531304721253","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.150080","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":50080}
+[INFO 2024-04-28 21:13:26.145] Message sent to 127.0.0.1:50080, containing: {"action":"lobby_info","data":[{"id":"17143531304721253","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.150080","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 21:13:29.773] Package received from 127.0.0.1:39471
+[INFO 2024-04-28 21:13:29.773] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 21:13:29.773] package pushed into input queue.
+[INFO 2024-04-28 21:13:29.773] Package pulled from input queue.
+[INFO 2024-04-28 21:13:29.773] New player connected: 127.0.0.1:39471
+[INFO 2024-04-28 21:13:29.774] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":39471}
+[INFO 2024-04-28 21:13:29.781] Message sent to 127.0.0.1:39471, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 21:13:35.601] Package received from 127.0.0.1:50080
+[INFO 2024-04-28 21:13:35.601] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 21:13:35.601] package pushed into input queue.
+[INFO 2024-04-28 21:13:35.601] Package pulled from input queue.
+[INFO 2024-04-28 21:13:35.602] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":":1677727328"}],"score":0},{"name":"team_\u0001","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":50080}
+[INFO 2024-04-28 21:13:35.613] Message sent to 127.0.0.1:50080, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":":1677727328"}],"score":0},{"name":"team_\u0001","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 21:15:55.307] Package received from 127.0.0.1:39471
+[INFO 2024-04-28 21:15:55.307] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 21:15:55.307] package pushed into input queue.
+[INFO 2024-04-28 21:15:55.307] Package pulled from input queue.
+[INFO 2024-04-28 21:15:55.307] response created: {"action":"lobby_info","data":[{"id":"17143531304721253","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"1677727328","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":39471}
+[INFO 2024-04-28 21:15:55.313] Message sent to 127.0.0.1:39471, containing: {"action":"lobby_info","data":[{"id":"17143531304721253","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"1677727328","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 21:16:08.749] Package received from 127.0.0.1:39471
+[INFO 2024-04-28 21:16:08.749] Package: {"action":"join 17143531304721253","data":""}
+[INFO 2024-04-28 21:16:08.749] package pushed into input queue.
+[INFO 2024-04-28 21:16:08.749] Package pulled from input queue.
+[ERROR 2024-04-28 21:16:08.749] Bad Action: join 17143531304721253
+[INFO 2024-04-28 21:16:13.944] Package received from 127.0.0.1:39471
+[INFO 2024-04-28 21:16:13.944] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 21:16:13.944] package pushed into input queue.
+[INFO 2024-04-28 21:16:13.944] Package pulled from input queue.
+[INFO 2024-04-28 21:16:13.944] response created: {"action":"game_info","data":"failure","ip":"127.0.0.1","port":39471}
+[INFO 2024-04-28 21:16:13.949] Message sent to 127.0.0.1:39471, containing: {"action":"game_info","data":"failure"}
+[INFO 2024-04-28 21:16:23.196] Package received from 127.0.0.1:39471
+[INFO 2024-04-28 21:16:23.196] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 21:16:23.196] package pushed into input queue.
+[INFO 2024-04-28 21:16:23.196] Package pulled from input queue.
+[INFO 2024-04-28 21:16:23.196] response created: {"action":"game_info","data":"failure","ip":"127.0.0.1","port":39471}
+[INFO 2024-04-28 21:16:23.201] Message sent to 127.0.0.1:39471, containing: {"action":"game_info","data":"failure"}
+[INFO 2024-04-28 21:16:29.375] Package received from 127.0.0.1:50080
+[INFO 2024-04-28 21:16:29.375] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 21:16:29.375] package pushed into input queue.
+[INFO 2024-04-28 21:16:29.375] Package pulled from input queue.
+[INFO 2024-04-28 21:16:29.376] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":":1677727328"}],"score":0},{"name":"team_\u0001","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":50080}
+[INFO 2024-04-28 21:16:29.381] Message sent to 127.0.0.1:50080, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":":1677727328"}],"score":0},{"name":"team_\u0001","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 21:17:16.761] Package received from 127.0.0.1:50080
+[INFO 2024-04-28 21:17:16.762] Package: {"action":"switch team_\\u0001","data":""}
+[INFO 2024-04-28 21:17:16.762] package pushed into input queue.
+[INFO 2024-04-28 21:17:16.762] Package pulled from input queue.
+[INFO 2024-04-28 21:23:33.965] Server starting...
+[INFO 2024-04-28 21:23:33.965] starting I/O Queues...
+[INFO 2024-04-28 21:23:33.965] I/O Queues started.
+[INFO 2024-04-28 21:23:33.965] starting Input Handling Thread...
+[INFO 2024-04-28 21:23:33.966] Input Handling started.
+[INFO 2024-04-28 21:23:33.966] starting Game Thread...
+[INFO 2024-04-28 21:23:33.966] Game Thread started.
+[INFO 2024-04-28 21:23:33.966] setting socket...
+[INFO 2024-04-28 21:23:33.966] socket set.
+[INFO 2024-04-28 21:23:33.966] Server started.
+[INFO 2024-04-28 21:23:36.592] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 21:23:36.592] Package: {"action":"game_connect","data":""}
+[INFO 2024-04-28 21:23:36.592] package pushed into input queue.
+[INFO 2024-04-28 21:23:36.593] Package pulled from input queue.
+[ERROR 2024-04-28 21:23:36.593] Bad Action: game_connect
+[INFO 2024-04-28 21:23:39.059] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 21:23:39.059] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 21:23:39.060] package pushed into input queue.
+[INFO 2024-04-28 21:23:39.060] Package pulled from input queue.
+[INFO 2024-04-28 21:23:39.060] New player connected: 127.0.0.1:54858
+[INFO 2024-04-28 21:23:39.060] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 21:23:39.065] Message sent to 127.0.0.1:54858, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 21:23:42.782] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 21:23:42.782] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 21:23:42.782] package pushed into input queue.
+[INFO 2024-04-28 21:23:42.782] Package pulled from input queue.
+[INFO 2024-04-28 21:23:42.782] New player connected: 127.0.0.1:35103
+[INFO 2024-04-28 21:23:42.782] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":35103}
+[INFO 2024-04-28 21:23:42.789] Message sent to 127.0.0.1:35103, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 21:23:51.652] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 21:23:51.652] Package: {"action":"create","data":""}
+[INFO 2024-04-28 21:23:51.652] package pushed into input queue.
+[INFO 2024-04-28 21:23:51.652] Package pulled from input queue.
+[USER 2024-04-28 21:30:10.661] stop
+[INFO 2024-04-28 21:30:10.661] Server stopping...
+[INFO 2024-04-28 21:30:10.673] Server stopped.
+[INFO 2024-04-28 21:31:16.906] Server starting...
+[INFO 2024-04-28 21:31:16.906] starting I/O Queues...
+[INFO 2024-04-28 21:31:16.906] I/O Queues started.
+[INFO 2024-04-28 21:31:16.906] starting Input Handling Thread...
+[INFO 2024-04-28 21:31:16.906] Input Handling started.
+[INFO 2024-04-28 21:31:16.906] starting Game Thread...
+[INFO 2024-04-28 21:31:16.906] Game Thread started.
+[INFO 2024-04-28 21:31:16.906] setting socket...
+[INFO 2024-04-28 21:31:16.906] socket set.
+[INFO 2024-04-28 21:31:16.906] Server started.
+[INFO 2024-04-28 21:31:27.877] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 21:31:27.878] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 21:31:27.878] package pushed into input queue.
+[INFO 2024-04-28 21:31:27.878] Package pulled from input queue.
+[INFO 2024-04-28 21:31:27.878] New player connected: 127.0.0.1:54858
+[INFO 2024-04-28 21:31:27.878] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 21:31:27.889] Message sent to 127.0.0.1:54858, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 21:31:33.155] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 21:31:33.155] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 21:31:33.155] package pushed into input queue.
+[INFO 2024-04-28 21:31:33.155] Package pulled from input queue.
+[INFO 2024-04-28 21:31:33.155] New player connected: 127.0.0.1:35103
+[INFO 2024-04-28 21:31:33.155] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":35103}
+[INFO 2024-04-28 21:31:33.165] Message sent to 127.0.0.1:35103, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 21:31:37.058] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 21:31:37.059] Package: {"action":"my_info","data":""}
+[INFO 2024-04-28 21:31:37.059] package pushed into input queue.
+[INFO 2024-04-28 21:31:37.059] Package pulled from input queue.
+[INFO 2024-04-28 21:31:37.059] response created: {"action":"lobby_info","data":{"inMatch":false,"isReady":false,"name":"127.0.0.1:35103"},"ip":"127.0.0.1","port":35103}
+[INFO 2024-04-28 21:31:37.065] Message sent to 127.0.0.1:35103, containing: {"action":"lobby_info","data":{"inMatch":false,"isReady":false,"name":"127.0.0.1:35103"}}
+[INFO 2024-04-28 21:31:41.331] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 21:31:41.331] Package: {"action":"my_info","data":""}
+[INFO 2024-04-28 21:31:41.331] package pushed into input queue.
+[INFO 2024-04-28 21:31:41.331] Package pulled from input queue.
+[INFO 2024-04-28 21:31:41.331] response created: {"action":"lobby_info","data":{"inMatch":false,"isReady":false,"name":"127.0.0.1:54858"},"ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 21:31:41.341] Message sent to 127.0.0.1:54858, containing: {"action":"lobby_info","data":{"inMatch":false,"isReady":false,"name":"127.0.0.1:54858"}}
+[INFO 2024-04-28 21:31:57.457] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 21:31:57.457] Package: {"action":"create","data":""}
+[INFO 2024-04-28 21:31:57.457] package pushed into input queue.
+[INFO 2024-04-28 21:31:57.457] Package pulled from input queue.
+[INFO 2024-04-28 21:31:57.457] response created: {"action":"create","data":"successful","ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 21:31:57.465] Message sent to 127.0.0.1:54858, containing: {"action":"create","data":"successful"}
+[INFO 2024-04-28 21:32:01.329] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 21:32:01.329] Package: {"action":"my_info","data":""}
+[INFO 2024-04-28 21:32:01.329] package pushed into input queue.
+[INFO 2024-04-28 21:32:01.329] Package pulled from input queue.
+[INFO 2024-04-28 21:32:01.329] response created: {"action":"lobby_info","data":{"inMatch":false,"isReady":false,"name":"127.0.0.1:54858"},"ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 21:32:01.341] Message sent to 127.0.0.1:54858, containing: {"action":"lobby_info","data":{"inMatch":false,"isReady":false,"name":"127.0.0.1:54858"}}
+[USER 2024-04-28 21:33:13.187] [Astop
+[ERROR 2024-04-28 21:33:13.187] Invalid input. Please try again or type 'help' to show available commands.
+[USER 2024-04-28 21:33:13.990] stop
+[INFO 2024-04-28 21:33:13.990] Server stopping...
+[INFO 2024-04-28 21:33:14.001] Server stopped.
+[INFO 2024-04-28 22:09:39.604] Server starting...
+[INFO 2024-04-28 22:09:39.604] starting I/O Queues...
+[INFO 2024-04-28 22:09:39.604] I/O Queues started.
+[INFO 2024-04-28 22:09:39.604] starting Input Handling Thread...
+[INFO 2024-04-28 22:09:39.605] Input Handling started.
+[INFO 2024-04-28 22:09:39.605] starting Game Thread...
+[INFO 2024-04-28 22:09:39.605] Game Thread started.
+[INFO 2024-04-28 22:09:39.605] setting socket...
+[INFO 2024-04-28 22:09:39.605] socket set.
+[INFO 2024-04-28 22:09:39.605] Server started.
+[INFO 2024-04-28 22:09:46.887] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:09:46.887] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:09:46.887] package pushed into input queue.
+[INFO 2024-04-28 22:09:46.887] Package pulled from input queue.
+[INFO 2024-04-28 22:09:46.887] New player connected: 127.0.0.1:54858
+[INFO 2024-04-28 22:09:46.887] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 22:09:46.893] Message sent to 127.0.0.1:54858, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:09:49.402] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:09:49.402] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:09:49.402] package pushed into input queue.
+[INFO 2024-04-28 22:09:49.402] Package pulled from input queue.
+[INFO 2024-04-28 22:09:49.402] New player connected: 127.0.0.1:35103
+[INFO 2024-04-28 22:09:49.402] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":35103}
+[INFO 2024-04-28 22:09:49.409] Message sent to 127.0.0.1:35103, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:11:41.666] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:11:41.666] Package: {"action":"create","data":"create"}
+[INFO 2024-04-28 22:11:41.666] package pushed into input queue.
+[INFO 2024-04-28 22:11:41.666] Package pulled from input queue.
+[INFO 2024-04-28 22:11:41.666] response created: {"action":"create","data":"successful","ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 22:11:41.677] Message sent to 127.0.0.1:54858, containing: {"action":"create","data":"successful"}
+[INFO 2024-04-28 22:11:48.580] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:11:48.580] Package: {"action":"my_info","data":""}
+[INFO 2024-04-28 22:11:48.580] package pushed into input queue.
+[INFO 2024-04-28 22:11:48.580] Package pulled from input queue.
+[INFO 2024-04-28 22:11:48.581] response created: {"action":"lobby_info","data":{"inMatch":true,"isReady":false,"name":"127.0.0.1:54858"},"ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 22:11:48.585] Message sent to 127.0.0.1:54858, containing: {"action":"lobby_info","data":{"inMatch":true,"isReady":false,"name":"127.0.0.1:54858"}}
+[INFO 2024-04-28 22:11:54.304] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:11:54.304] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:11:54.305] package pushed into input queue.
+[INFO 2024-04-28 22:11:54.305] Package pulled from input queue.
+[INFO 2024-04-28 22:11:54.305] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:54858"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 22:11:54.317] Message sent to 127.0.0.1:54858, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:54858"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:12:02.670] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:12:02.671] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 22:12:02.671] package pushed into input queue.
+[INFO 2024-04-28 22:12:02.671] Package pulled from input queue.
+[INFO 2024-04-28 22:12:02.671] response created: {"action":"lobby_info","data":[{"id":"17143567016669881","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.154858","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":35103}
+[INFO 2024-04-28 22:12:02.677] Message sent to 127.0.0.1:35103, containing: {"action":"lobby_info","data":[{"id":"17143567016669881","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.154858","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 22:12:10.638] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:12:10.639] Package: {"action":"join","data":"17143567016669881"}
+[INFO 2024-04-28 22:12:10.639] package pushed into input queue.
+[INFO 2024-04-28 22:12:10.639] Package pulled from input queue.
+[INFO 2024-04-28 22:12:10.639] response created: {"action":"join","data":"successful","ip":"127.0.0.1","port":35103}
+[INFO 2024-04-28 22:12:10.645] Message sent to 127.0.0.1:35103, containing: {"action":"join","data":"successful"}
+[INFO 2024-04-28 22:12:18.381] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:12:18.381] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:12:18.381] package pushed into input queue.
+[INFO 2024-04-28 22:12:18.381] Package pulled from input queue.
+[INFO 2024-04-28 22:12:18.381] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:54858"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:35103"}]},"ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 22:12:18.393] Message sent to 127.0.0.1:54858, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:54858"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:35103"}]}}
+[INFO 2024-04-28 22:12:41.500] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:12:41.500] Package: {"action":"accept","data":"127.0.0.1:35103"}
+[INFO 2024-04-28 22:12:41.500] package pushed into input queue.
+[INFO 2024-04-28 22:12:41.500] Package pulled from input queue.
+[INFO 2024-04-28 22:12:50.628] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:12:50.628] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:12:50.628] package pushed into input queue.
+[INFO 2024-04-28 22:12:50.628] Package pulled from input queue.
+[INFO 2024-04-28 22:12:50.629] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:54858"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:35103"}]},"ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 22:12:50.633] Message sent to 127.0.0.1:54858, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:54858"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:35103"}]}}
+[INFO 2024-04-28 22:13:06.580] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:13:06.580] Package: {"action":"my_info","data":""}
+[INFO 2024-04-28 22:13:06.580] package pushed into input queue.
+[INFO 2024-04-28 22:13:06.580] Package pulled from input queue.
+[INFO 2024-04-28 22:13:06.580] response created: {"action":"lobby_info","data":{"inMatch":true,"isReady":false,"name":"127.0.0.1:35103"},"ip":"127.0.0.1","port":35103}
+[INFO 2024-04-28 22:13:06.589] Message sent to 127.0.0.1:35103, containing: {"action":"lobby_info","data":{"inMatch":true,"isReady":false,"name":"127.0.0.1:35103"}}
+[INFO 2024-04-28 22:13:14.280] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:13:14.280] Package: {"action":"switch","data":"team_b"}
+[INFO 2024-04-28 22:13:14.280] package pushed into input queue.
+[INFO 2024-04-28 22:13:14.280] Package pulled from input queue.
+[INFO 2024-04-28 22:13:23.825] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:13:23.825] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:13:23.825] package pushed into input queue.
+[INFO 2024-04-28 22:13:23.825] Package pulled from input queue.
+[INFO 2024-04-28 22:13:23.825] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:54858"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 22:14:13.588] Server starting...
+[INFO 2024-04-28 22:14:13.588] starting I/O Queues...
+[INFO 2024-04-28 22:14:13.588] I/O Queues started.
+[INFO 2024-04-28 22:14:13.588] starting Input Handling Thread...
+[INFO 2024-04-28 22:14:13.589] Input Handling started.
+[INFO 2024-04-28 22:14:13.589] starting Game Thread...
+[INFO 2024-04-28 22:14:13.589] Game Thread started.
+[INFO 2024-04-28 22:14:13.589] setting socket...
+[INFO 2024-04-28 22:14:13.589] socket set.
+[INFO 2024-04-28 22:14:13.589] Server started.
+[INFO 2024-04-28 22:14:15.536] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:14:15.536] Package: {"action":"create","data":""}
+[INFO 2024-04-28 22:14:15.536] package pushed into input queue.
+[INFO 2024-04-28 22:14:15.537] Package pulled from input queue.
+[INFO 2024-04-28 22:14:15.537] response created: {"action":"create","data":"failure","ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 22:14:15.545] Message sent to 127.0.0.1:54858, containing: {"action":"create","data":"failure"}
+[INFO 2024-04-28 22:14:19.398] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:14:19.399] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:14:19.399] package pushed into input queue.
+[INFO 2024-04-28 22:14:19.399] Package pulled from input queue.
+[INFO 2024-04-28 22:14:19.399] New player connected: 127.0.0.1:54858
+[INFO 2024-04-28 22:14:19.399] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 22:14:19.405] Message sent to 127.0.0.1:54858, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:14:21.347] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:14:21.347] Package: {"action":"","data":"connect"}
+[INFO 2024-04-28 22:14:21.347] package pushed into input queue.
+[INFO 2024-04-28 22:14:21.347] Package pulled from input queue.
+[ERROR 2024-04-28 22:14:21.347] Bad Action: 
+[INFO 2024-04-28 22:14:24.649] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:14:24.649] Package: {"action":"","data":"connect"}
+[INFO 2024-04-28 22:14:24.649] package pushed into input queue.
+[INFO 2024-04-28 22:14:24.649] Package pulled from input queue.
+[ERROR 2024-04-28 22:14:24.650] Bad Action: 
+[INFO 2024-04-28 22:14:27.512] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:14:27.512] Package: {"action":"","data":"connect"}
+[INFO 2024-04-28 22:14:27.512] package pushed into input queue.
+[INFO 2024-04-28 22:14:27.512] Package pulled from input queue.
+[ERROR 2024-04-28 22:14:27.512] Bad Action: 
+[INFO 2024-04-28 22:14:30.623] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:14:30.624] Package: {"action":"","data":""}
+[INFO 2024-04-28 22:14:30.624] package pushed into input queue.
+[INFO 2024-04-28 22:14:30.624] Package pulled from input queue.
+[ERROR 2024-04-28 22:14:30.624] Bad Action: 
+[INFO 2024-04-28 22:14:33.551] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:14:33.552] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:14:33.552] package pushed into input queue.
+[INFO 2024-04-28 22:14:33.552] Package pulled from input queue.
+[INFO 2024-04-28 22:14:33.552] New player connected: 127.0.0.1:35103
+[INFO 2024-04-28 22:14:33.552] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":35103}
+[INFO 2024-04-28 22:14:33.557] Message sent to 127.0.0.1:35103, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:14:36.116] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:14:36.116] Package: {"action":"create","data":""}
+[INFO 2024-04-28 22:14:36.116] package pushed into input queue.
+[INFO 2024-04-28 22:14:36.116] Package pulled from input queue.
+[INFO 2024-04-28 22:14:36.116] response created: {"action":"create","data":"successful","ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 22:14:36.121] Message sent to 127.0.0.1:54858, containing: {"action":"create","data":"successful"}
+[INFO 2024-04-28 22:14:41.309] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:14:41.309] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 22:14:41.309] package pushed into input queue.
+[INFO 2024-04-28 22:14:41.309] Package pulled from input queue.
+[INFO 2024-04-28 22:14:41.309] response created: {"action":"lobby_info","data":[{"id":"17143568761163239","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.154858","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":35103}
+[INFO 2024-04-28 22:14:41.317] Message sent to 127.0.0.1:35103, containing: {"action":"lobby_info","data":[{"id":"17143568761163239","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.154858","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 22:14:51.728] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:14:51.729] Package: {"action":"join","data":"17143568761163239"}
+[INFO 2024-04-28 22:14:51.729] package pushed into input queue.
+[INFO 2024-04-28 22:14:51.729] Package pulled from input queue.
+[INFO 2024-04-28 22:14:51.729] response created: {"action":"join","data":"successful","ip":"127.0.0.1","port":35103}
+[INFO 2024-04-28 22:14:51.741] Message sent to 127.0.0.1:35103, containing: {"action":"join","data":"successful"}
+[INFO 2024-04-28 22:14:58.885] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:14:58.885] Package: {"action":"switch","data":"team_b"}
+[INFO 2024-04-28 22:14:58.885] package pushed into input queue.
+[INFO 2024-04-28 22:14:58.885] Package pulled from input queue.
+[INFO 2024-04-28 22:15:04.669] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:15:04.670] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:15:04.670] package pushed into input queue.
+[INFO 2024-04-28 22:15:04.670] Package pulled from input queue.
+[INFO 2024-04-28 22:15:04.670] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:54858"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 22:15:04.677] Message sent to 127.0.0.1:54858, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:54858"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:15:12.057] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:15:12.057] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 22:15:12.057] package pushed into input queue.
+[INFO 2024-04-28 22:15:12.058] Package pulled from input queue.
+[INFO 2024-04-28 22:15:14.991] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:15:14.991] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 22:15:14.991] package pushed into input queue.
+[INFO 2024-04-28 22:15:14.991] Package pulled from input queue.
+[INFO 2024-04-28 22:15:26.242] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:15:26.242] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:15:26.242] package pushed into input queue.
+[INFO 2024-04-28 22:15:26.242] Package pulled from input queue.
+[INFO 2024-04-28 22:15:26.242] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:54858"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 22:15:26.249] Message sent to 127.0.0.1:54858, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:54858"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:15:44.896] Package received from 127.0.0.1:54858
+[INFO 2024-04-28 22:15:44.896] Package: {"action":"my_info","data":""}
+[INFO 2024-04-28 22:15:44.896] package pushed into input queue.
+[INFO 2024-04-28 22:15:44.896] Package pulled from input queue.
+[INFO 2024-04-28 22:15:44.896] response created: {"action":"lobby_info","data":{"inMatch":true,"isReady":true,"name":"127.0.0.1:54858"},"ip":"127.0.0.1","port":54858}
+[INFO 2024-04-28 22:15:44.901] Message sent to 127.0.0.1:54858, containing: {"action":"lobby_info","data":{"inMatch":true,"isReady":true,"name":"127.0.0.1:54858"}}
+[INFO 2024-04-28 22:15:47.710] Package received from 127.0.0.1:35103
+[INFO 2024-04-28 22:21:51.448] Server starting...
+[INFO 2024-04-28 22:21:51.448] starting I/O Queues...
+[INFO 2024-04-28 22:21:51.448] I/O Queues started.
+[INFO 2024-04-28 22:21:51.448] starting Input Handling Thread...
+[INFO 2024-04-28 22:21:51.449] Input Handling started.
+[INFO 2024-04-28 22:21:51.449] starting Game Thread...
+[INFO 2024-04-28 22:21:51.449] Game Thread started.
+[INFO 2024-04-28 22:21:51.449] setting socket...
+[INFO 2024-04-28 22:21:51.449] socket set.
+[INFO 2024-04-28 22:21:51.449] Server started.
+[INFO 2024-04-28 22:22:01.550] Package received from 127.0.0.1:48154
+[INFO 2024-04-28 22:22:01.550] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:22:01.550] package pushed into input queue.
+[INFO 2024-04-28 22:22:01.550] Package pulled from input queue.
+[INFO 2024-04-28 22:22:01.550] New player connected: 127.0.0.1:48154
+[INFO 2024-04-28 22:22:01.550] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":48154}
+[INFO 2024-04-28 22:22:01.561] Message sent to 127.0.0.1:48154, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:22:03.883] Package received from 127.0.0.1:34689
+[INFO 2024-04-28 22:22:03.883] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:22:03.883] package pushed into input queue.
+[INFO 2024-04-28 22:22:03.884] Package pulled from input queue.
+[INFO 2024-04-28 22:22:03.884] New player connected: 127.0.0.1:34689
+[INFO 2024-04-28 22:22:03.884] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":34689}
+[INFO 2024-04-28 22:22:03.889] Message sent to 127.0.0.1:34689, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:22:06.079] Package received from 127.0.0.1:48154
+[INFO 2024-04-28 22:22:06.079] Package: {"action":"create","data":""}
+[INFO 2024-04-28 22:22:06.079] package pushed into input queue.
+[INFO 2024-04-28 22:22:06.079] Package pulled from input queue.
+[INFO 2024-04-28 22:22:06.079] response created: {"action":"create","data":"successful","ip":"127.0.0.1","port":48154}
+[INFO 2024-04-28 22:22:06.085] Message sent to 127.0.0.1:48154, containing: {"action":"create","data":"successful"}
+[INFO 2024-04-28 22:22:10.840] Package received from 127.0.0.1:34689
+[INFO 2024-04-28 22:22:10.840] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 22:22:10.840] package pushed into input queue.
+[INFO 2024-04-28 22:22:10.840] Package pulled from input queue.
+[INFO 2024-04-28 22:22:10.840] response created: {"action":"lobby_info","data":[{"id":"17143573260794826","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.148154","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":34689}
+[INFO 2024-04-28 22:22:10.845] Message sent to 127.0.0.1:34689, containing: {"action":"lobby_info","data":[{"id":"17143573260794826","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.148154","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 22:22:17.513] Package received from 127.0.0.1:34689
+[INFO 2024-04-28 22:22:17.513] Package: {"action":"join","data":"17143573260794826"}
+[INFO 2024-04-28 22:22:17.513] package pushed into input queue.
+[INFO 2024-04-28 22:22:17.513] Package pulled from input queue.
+[INFO 2024-04-28 22:22:17.513] response created: {"action":"join","data":"successful","ip":"127.0.0.1","port":34689}
+[INFO 2024-04-28 22:22:17.521] Message sent to 127.0.0.1:34689, containing: {"action":"join","data":"successful"}
+[INFO 2024-04-28 22:22:25.499] Package received from 127.0.0.1:48154
+[INFO 2024-04-28 22:22:25.499] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:22:25.499] package pushed into input queue.
+[INFO 2024-04-28 22:22:25.499] Package pulled from input queue.
+[INFO 2024-04-28 22:22:25.500] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:48154"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:34689"}]},"ip":"127.0.0.1","port":48154}
+[INFO 2024-04-28 22:22:25.505] Message sent to 127.0.0.1:48154, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:48154"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:34689"}]}}
+[INFO 2024-04-28 22:22:33.873] Package received from 127.0.0.1:48154
+[INFO 2024-04-28 22:22:33.873] Package: {"action":"accept","data":"127.0.0.1:34689"}
+[INFO 2024-04-28 22:22:33.873] package pushed into input queue.
+[INFO 2024-04-28 22:22:33.873] Package pulled from input queue.
+[INFO 2024-04-28 22:22:40.452] Package received from 127.0.0.1:34689
+[INFO 2024-04-28 22:22:40.452] Package: {"action":"switch","data":"team_b"}
+[INFO 2024-04-28 22:22:40.452] package pushed into input queue.
+[INFO 2024-04-28 22:22:40.452] Package pulled from input queue.
+[INFO 2024-04-28 22:22:46.348] Package received from 127.0.0.1:48154
+[INFO 2024-04-28 22:22:46.348] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:22:46.348] package pushed into input queue.
+[INFO 2024-04-28 22:22:46.348] Package pulled from input queue.
+[INFO 2024-04-28 22:22:46.348] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:48154"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":48154}
+[INFO 2024-04-28 22:22:46.353] Message sent to 127.0.0.1:48154, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:48154"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:22:53.598] Package received from 127.0.0.1:48154
+[INFO 2024-04-28 22:22:53.599] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 22:22:53.599] package pushed into input queue.
+[INFO 2024-04-28 22:22:53.599] Package pulled from input queue.
+[INFO 2024-04-28 22:22:55.911] Package received from 127.0.0.1:34689
+[INFO 2024-04-28 22:22:55.911] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 22:22:55.911] package pushed into input queue.
+[INFO 2024-04-28 22:22:55.911] Package pulled from input queue.
+[INFO 2024-04-28 22:22:59.909] Package received from 127.0.0.1:48154
+[INFO 2024-04-28 22:22:59.909] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:22:59.910] package pushed into input queue.
+[INFO 2024-04-28 22:22:59.910] Package pulled from input queue.
+[INFO 2024-04-28 22:22:59.910] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:48154"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":48154}
+[INFO 2024-04-28 22:22:59.917] Message sent to 127.0.0.1:48154, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:48154"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:23:06.990] Package received from 127.0.0.1:34689
+[INFO 2024-04-28 22:23:06.991] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:23:06.991] package pushed into input queue.
+[INFO 2024-04-28 22:23:06.991] Package pulled from input queue.
+[INFO 2024-04-28 22:23:06.991] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:48154"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":34689}
+[INFO 2024-04-28 22:23:06.997] Message sent to 127.0.0.1:34689, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:48154"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:23:14.121] Package received from 127.0.0.1:48154
+[INFO 2024-04-28 22:23:14.121] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 22:23:14.121] package pushed into input queue.
+[INFO 2024-04-28 22:23:14.121] Package pulled from input queue.
+[INFO 2024-04-28 22:23:17.364] Package received from 127.0.0.1:48154
+[INFO 2024-04-28 22:23:17.364] Package: {"action":"my_info","data":""}
+[INFO 2024-04-28 22:23:17.364] package pushed into input queue.
+[INFO 2024-04-28 22:34:12.190] Server starting...
+[INFO 2024-04-28 22:34:12.190] starting I/O Queues...
+[INFO 2024-04-28 22:34:12.190] I/O Queues started.
+[INFO 2024-04-28 22:34:12.190] starting Input Handling Thread...
+[INFO 2024-04-28 22:34:12.190] Input Handling started.
+[INFO 2024-04-28 22:34:12.190] starting Game Thread...
+[INFO 2024-04-28 22:34:12.191] Game Thread started.
+[INFO 2024-04-28 22:34:12.191] setting socket...
+[INFO 2024-04-28 22:34:12.191] socket set.
+[INFO 2024-04-28 22:34:12.191] Server started.
+[INFO 2024-04-28 22:34:15.255] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:34:15.255] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:34:15.255] package pushed into input queue.
+[INFO 2024-04-28 22:34:15.255] Package pulled from input queue.
+[INFO 2024-04-28 22:34:15.255] New player connected: 127.0.0.1:50882
+[INFO 2024-04-28 22:34:15.256] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:34:15.261] Message sent to 127.0.0.1:50882, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:34:17.615] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:34:17.615] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:34:17.615] package pushed into input queue.
+[INFO 2024-04-28 22:34:17.615] Package pulled from input queue.
+[INFO 2024-04-28 22:34:17.615] New player connected: 127.0.0.1:49073
+[INFO 2024-04-28 22:34:17.615] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":49073}
+[INFO 2024-04-28 22:34:17.625] Message sent to 127.0.0.1:49073, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:34:21.093] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:34:21.094] Package: {"action":"create","data":""}
+[INFO 2024-04-28 22:34:21.094] package pushed into input queue.
+[INFO 2024-04-28 22:34:21.094] Package pulled from input queue.
+[INFO 2024-04-28 22:34:21.094] response created: {"action":"create","data":"successful","ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:34:21.101] Message sent to 127.0.0.1:50882, containing: {"action":"create","data":"successful"}
+[INFO 2024-04-28 22:34:47.232] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:34:47.233] Package: {"action":"set_max_dice_roll","data":"16"}
+[INFO 2024-04-28 22:34:47.233] package pushed into input queue.
+[INFO 2024-04-28 22:34:47.233] Package pulled from input queue.
+[INFO 2024-04-28 22:34:54.535] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:34:54.535] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 22:34:54.535] package pushed into input queue.
+[INFO 2024-04-28 22:34:54.535] Package pulled from input queue.
+[INFO 2024-04-28 22:34:54.535] response created: {"action":"lobby_info","data":[{"id":"17143580610943086","maxPlayers":10,"maxPositions":100,"maxRoll":16,"minRoll":1,"owner":"127.0.0.150882","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:34:54.541] Message sent to 127.0.0.1:50882, containing: {"action":"lobby_info","data":[{"id":"17143580610943086","maxPlayers":10,"maxPositions":100,"maxRoll":16,"minRoll":1,"owner":"127.0.0.150882","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 22:35:03.865] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:35:03.865] Package: {"action":"join","data":"17143580610943086"}
+[INFO 2024-04-28 22:35:03.865] package pushed into input queue.
+[INFO 2024-04-28 22:35:03.865] Package pulled from input queue.
+[INFO 2024-04-28 22:35:03.866] response created: {"action":"join","data":"successful","ip":"127.0.0.1","port":49073}
+[INFO 2024-04-28 22:35:03.873] Message sent to 127.0.0.1:49073, containing: {"action":"join","data":"successful"}
+[INFO 2024-04-28 22:35:11.236] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:35:11.237] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:35:11.237] package pushed into input queue.
+[INFO 2024-04-28 22:35:11.237] Package pulled from input queue.
+[INFO 2024-04-28 22:35:11.237] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:49073"}]},"ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:35:11.245] Message sent to 127.0.0.1:50882, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:49073"}]}}
+[INFO 2024-04-28 22:35:15.286] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:35:15.286] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 22:35:15.287] package pushed into input queue.
+[INFO 2024-04-28 22:35:15.287] Package pulled from input queue.
+[INFO 2024-04-28 22:35:15.287] response created: {"action":"lobby_info","data":[{"id":"17143580610943086","maxPlayers":10,"maxPositions":100,"maxRoll":16,"minRoll":1,"owner":"127.0.0.150882","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:35:15.293] Message sent to 127.0.0.1:50882, containing: {"action":"lobby_info","data":[{"id":"17143580610943086","maxPlayers":10,"maxPositions":100,"maxRoll":16,"minRoll":1,"owner":"127.0.0.150882","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 22:35:31.535] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:35:31.535] Package: {"action":"switch team_b","data":""}
+[INFO 2024-04-28 22:35:31.535] package pushed into input queue.
+[INFO 2024-04-28 22:35:31.535] Package pulled from input queue.
+[ERROR 2024-04-28 22:35:31.535] Bad Action: switch team_b
+[INFO 2024-04-28 22:35:35.836] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:35:35.836] Package: {"action":"switch","data":"team_b"}
+[INFO 2024-04-28 22:35:35.836] package pushed into input queue.
+[INFO 2024-04-28 22:35:35.837] Package pulled from input queue.
+[INFO 2024-04-28 22:35:40.791] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:35:40.791] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:35:40.791] package pushed into input queue.
+[INFO 2024-04-28 22:35:40.791] Package pulled from input queue.
+[INFO 2024-04-28 22:35:40.791] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:35:40.797] Message sent to 127.0.0.1:50882, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:37:24.104] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:37:24.104] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:37:24.104] package pushed into input queue.
+[INFO 2024-04-28 22:37:24.104] Package pulled from input queue.
+[INFO 2024-04-28 22:37:24.104] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":49073}
+[INFO 2024-04-28 22:37:24.109] Message sent to 127.0.0.1:49073, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:37:25.850] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:37:25.850] Package: {"action":"leave","data":""}
+[INFO 2024-04-28 22:37:25.850] package pushed into input queue.
+[INFO 2024-04-28 22:37:25.850] Package pulled from input queue.
+[INFO 2024-04-28 22:37:30.504] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:37:30.504] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:37:30.504] package pushed into input queue.
+[INFO 2024-04-28 22:37:30.504] Package pulled from input queue.
+[INFO 2024-04-28 22:37:30.505] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":49073}
+[INFO 2024-04-28 22:38:09.090] Server starting...
+[INFO 2024-04-28 22:38:09.090] starting I/O Queues...
+[INFO 2024-04-28 22:38:09.090] I/O Queues started.
+[INFO 2024-04-28 22:38:09.090] starting Input Handling Thread...
+[INFO 2024-04-28 22:38:09.090] Input Handling started.
+[INFO 2024-04-28 22:38:09.090] starting Game Thread...
+[INFO 2024-04-28 22:38:09.090] Game Thread started.
+[INFO 2024-04-28 22:38:09.090] setting socket...
+[INFO 2024-04-28 22:38:09.090] socket set.
+[INFO 2024-04-28 22:38:09.090] Server started.
+[INFO 2024-04-28 22:38:12.343] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:38:12.343] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:38:12.343] package pushed into input queue.
+[INFO 2024-04-28 22:38:12.343] Package pulled from input queue.
+[INFO 2024-04-28 22:38:12.343] New player connected: 127.0.0.1:50882
+[INFO 2024-04-28 22:38:12.343] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:38:12.353] Message sent to 127.0.0.1:50882, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:38:15.845] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:38:15.845] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:38:15.845] package pushed into input queue.
+[INFO 2024-04-28 22:38:15.845] Package pulled from input queue.
+[INFO 2024-04-28 22:38:15.845] New player connected: 127.0.0.1:49073
+[INFO 2024-04-28 22:38:15.845] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":49073}
+[INFO 2024-04-28 22:38:15.853] Message sent to 127.0.0.1:49073, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:38:19.413] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:38:19.413] Package: {"action":"create","data":""}
+[INFO 2024-04-28 22:38:19.413] package pushed into input queue.
+[INFO 2024-04-28 22:38:19.413] Package pulled from input queue.
+[INFO 2024-04-28 22:38:19.414] response created: {"action":"create","data":"successful","ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:38:19.421] Message sent to 127.0.0.1:50882, containing: {"action":"create","data":"successful"}
+[INFO 2024-04-28 22:38:29.661] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:38:29.661] Package: {"action":"set_max_dice_roll","data":"16"}
+[INFO 2024-04-28 22:38:29.661] package pushed into input queue.
+[INFO 2024-04-28 22:38:29.661] Package pulled from input queue.
+[INFO 2024-04-28 22:38:35.543] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:38:35.544] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:38:35.544] package pushed into input queue.
+[INFO 2024-04-28 22:38:35.544] Package pulled from input queue.
+[INFO 2024-04-28 22:38:35.544] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:38:35.549] Message sent to 127.0.0.1:50882, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:38:45.176] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:38:45.176] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 22:38:45.176] package pushed into input queue.
+[INFO 2024-04-28 22:38:45.176] Package pulled from input queue.
+[INFO 2024-04-28 22:38:45.176] response created: {"action":"lobby_info","data":[{"id":"17143582994134970","maxPlayers":10,"maxPositions":100,"maxRoll":16,"minRoll":1,"owner":"127.0.0.150882","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":49073}
+[INFO 2024-04-28 22:38:45.181] Message sent to 127.0.0.1:49073, containing: {"action":"lobby_info","data":[{"id":"17143582994134970","maxPlayers":10,"maxPositions":100,"maxRoll":16,"minRoll":1,"owner":"127.0.0.150882","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 22:38:51.838] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:38:51.839] Package: {"action":"join","data":"17143582994134970"}
+[INFO 2024-04-28 22:38:51.839] package pushed into input queue.
+[INFO 2024-04-28 22:38:51.839] Package pulled from input queue.
+[INFO 2024-04-28 22:38:51.839] response created: {"action":"join","data":"successful","ip":"127.0.0.1","port":49073}
+[INFO 2024-04-28 22:38:51.845] Message sent to 127.0.0.1:49073, containing: {"action":"join","data":"successful"}
+[INFO 2024-04-28 22:38:55.350] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:38:55.350] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:38:55.350] package pushed into input queue.
+[INFO 2024-04-28 22:38:55.350] Package pulled from input queue.
+[INFO 2024-04-28 22:38:55.351] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:49073"}]},"ip":"127.0.0.1","port":49073}
+[INFO 2024-04-28 22:38:55.357] Message sent to 127.0.0.1:49073, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:49073"}]}}
+[INFO 2024-04-28 22:39:15.559] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:39:15.559] Package: {"action":"switch","data":"team_b"}
+[INFO 2024-04-28 22:39:15.559] package pushed into input queue.
+[INFO 2024-04-28 22:39:15.559] Package pulled from input queue.
+[INFO 2024-04-28 22:39:21.310] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:39:21.310] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:39:21.310] package pushed into input queue.
+[INFO 2024-04-28 22:39:21.311] Package pulled from input queue.
+[INFO 2024-04-28 22:39:21.311] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":49073}
+[INFO 2024-04-28 22:39:21.321] Message sent to 127.0.0.1:49073, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:39:36.465] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:39:36.465] Package: {"action":"switch","data":"team_b"}
+[INFO 2024-04-28 22:39:36.466] package pushed into input queue.
+[INFO 2024-04-28 22:39:36.466] Package pulled from input queue.
+[INFO 2024-04-28 22:39:40.585] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:39:40.585] Package: {"action":"","data":"game_info"}
+[INFO 2024-04-28 22:39:40.585] package pushed into input queue.
+[INFO 2024-04-28 22:39:40.585] Package pulled from input queue.
+[ERROR 2024-04-28 22:39:40.586] Bad Action: 
+[INFO 2024-04-28 22:39:44.834] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:39:44.834] Package: {"action":"","data":""}
+[INFO 2024-04-28 22:39:44.834] package pushed into input queue.
+[INFO 2024-04-28 22:39:44.835] Package pulled from input queue.
+[ERROR 2024-04-28 22:39:44.835] Bad Action: 
+[INFO 2024-04-28 22:39:49.241] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:39:49.241] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:39:49.241] package pushed into input queue.
+[INFO 2024-04-28 22:39:49.241] Package pulled from input queue.
+[INFO 2024-04-28 22:39:49.241] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":49073}
+[INFO 2024-04-28 22:39:49.249] Message sent to 127.0.0.1:49073, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:39:54.886] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:39:54.886] Package: {"action":"switch_a","data":""}
+[INFO 2024-04-28 22:39:54.886] package pushed into input queue.
+[INFO 2024-04-28 22:39:54.886] Package pulled from input queue.
+[ERROR 2024-04-28 22:39:54.886] Bad Action: switch_a
+[INFO 2024-04-28 22:39:58.014] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:39:58.015] Package: {"action":"switch","data":"a"}
+[INFO 2024-04-28 22:39:58.015] package pushed into input queue.
+[INFO 2024-04-28 22:39:58.015] Package pulled from input queue.
+[INFO 2024-04-28 22:40:03.486] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:40:03.486] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:40:03.487] package pushed into input queue.
+[INFO 2024-04-28 22:40:03.487] Package pulled from input queue.
+[INFO 2024-04-28 22:40:03.487] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":49073}
+[INFO 2024-04-28 22:40:03.493] Message sent to 127.0.0.1:49073, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:40:08.187] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:40:08.187] Package: {"action":"join","data":"17143582994134970"}
+[INFO 2024-04-28 22:40:08.187] package pushed into input queue.
+[INFO 2024-04-28 22:40:08.188] Package pulled from input queue.
+[INFO 2024-04-28 22:40:08.188] response created: {"action":"join","data":"failure","ip":"127.0.0.1","port":49073}
+[INFO 2024-04-28 22:40:08.193] Message sent to 127.0.0.1:49073, containing: {"action":"join","data":"failure"}
+[INFO 2024-04-28 22:40:11.314] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:40:11.315] Package: {"action":"join","data":"17143582994134970"}
+[INFO 2024-04-28 22:40:11.315] package pushed into input queue.
+[INFO 2024-04-28 22:40:11.315] Package pulled from input queue.
+[INFO 2024-04-28 22:40:11.315] response created: {"action":"join","data":"failure","ip":"127.0.0.1","port":49073}
+[INFO 2024-04-28 22:40:11.321] Message sent to 127.0.0.1:49073, containing: {"action":"join","data":"failure"}
+[INFO 2024-04-28 22:40:13.007] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:40:13.007] Package: {"action":"leave","data":""}
+[INFO 2024-04-28 22:40:13.007] package pushed into input queue.
+[INFO 2024-04-28 22:40:13.007] Package pulled from input queue.
+[INFO 2024-04-28 22:40:16.379] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:40:16.379] Package: {"action":"join","data":"17143582994134970"}
+[INFO 2024-04-28 22:40:16.379] package pushed into input queue.
+[INFO 2024-04-28 22:40:16.379] Package pulled from input queue.
+[INFO 2024-04-28 22:40:16.379] response created: {"action":"join","data":"failure","ip":"127.0.0.1","port":49073}
+[INFO 2024-04-28 22:40:16.385] Message sent to 127.0.0.1:49073, containing: {"action":"join","data":"failure"}
+[INFO 2024-04-28 22:40:22.357] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:40:22.357] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 22:40:22.357] package pushed into input queue.
+[INFO 2024-04-28 22:40:22.358] Package pulled from input queue.
+[INFO 2024-04-28 22:40:24.710] Package received from 127.0.0.1:49073
+[INFO 2024-04-28 22:40:24.710] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 22:40:24.710] package pushed into input queue.
+[INFO 2024-04-28 22:40:24.710] Package pulled from input queue.
+[INFO 2024-04-28 22:40:29.640] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:40:29.641] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:40:29.641] package pushed into input queue.
+[INFO 2024-04-28 22:40:29.641] Package pulled from input queue.
+[INFO 2024-04-28 22:40:29.641] response created: {"action":"game_info","data":"failure","ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:40:29.649] Message sent to 127.0.0.1:50882, containing: {"action":"game_info","data":"failure"}
+[USER 2024-04-28 22:40:33.013] stop
+[INFO 2024-04-28 22:40:33.013] Server stopping...
+[INFO 2024-04-28 22:40:33.021] Server stopped.
+[INFO 2024-04-28 22:40:34.528] Server starting...
+[INFO 2024-04-28 22:40:34.528] starting I/O Queues...
+[INFO 2024-04-28 22:40:34.528] I/O Queues started.
+[INFO 2024-04-28 22:40:34.528] starting Input Handling Thread...
+[INFO 2024-04-28 22:40:34.529] Input Handling started.
+[INFO 2024-04-28 22:40:34.529] starting Game Thread...
+[INFO 2024-04-28 22:40:34.529] Game Thread started.
+[INFO 2024-04-28 22:40:34.529] setting socket...
+[INFO 2024-04-28 22:40:34.529] socket set.
+[INFO 2024-04-28 22:40:34.529] Server started.
+[USER 2024-04-28 22:40:34.622] 
+[ERROR 2024-04-28 22:40:34.622] Invalid input. Please try again or type 'help' to show available commands.
+[INFO 2024-04-28 22:40:38.084] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:40:38.084] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:40:38.084] package pushed into input queue.
+[INFO 2024-04-28 22:40:38.084] Package pulled from input queue.
+[INFO 2024-04-28 22:40:38.085] New player connected: 127.0.0.1:50882
+[INFO 2024-04-28 22:40:38.085] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:40:38.089] Message sent to 127.0.0.1:50882, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:40:40.783] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:40:40.783] Package: {"action":"create","data":""}
+[INFO 2024-04-28 22:40:40.783] package pushed into input queue.
+[INFO 2024-04-28 22:40:40.783] Package pulled from input queue.
+[INFO 2024-04-28 22:40:40.783] response created: {"action":"create","data":"successful","ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:40:40.789] Message sent to 127.0.0.1:50882, containing: {"action":"create","data":"successful"}
+[INFO 2024-04-28 22:40:44.925] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:40:44.925] Package: {"action":"set_max_dice_roll","data":"16"}
+[INFO 2024-04-28 22:40:44.925] package pushed into input queue.
+[INFO 2024-04-28 22:40:44.925] Package pulled from input queue.
+[INFO 2024-04-28 22:40:48.452] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:40:48.452] Package: {"action":"","data":"game_info"}
+[INFO 2024-04-28 22:40:48.452] package pushed into input queue.
+[INFO 2024-04-28 22:40:48.452] Package pulled from input queue.
+[ERROR 2024-04-28 22:40:48.452] Bad Action: 
+[INFO 2024-04-28 22:40:51.526] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:40:51.527] Package: {"action":"","data":""}
+[INFO 2024-04-28 22:40:51.527] package pushed into input queue.
+[INFO 2024-04-28 22:40:51.527] Package pulled from input queue.
+[ERROR 2024-04-28 22:40:51.527] Bad Action: 
+[INFO 2024-04-28 22:40:54.372] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:40:54.372] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 22:40:54.372] package pushed into input queue.
+[INFO 2024-04-28 22:40:54.372] Package pulled from input queue.
+[INFO 2024-04-28 22:40:54.372] response created: {"action":"lobby_info","data":[{"id":"17143584407832048","maxPlayers":10,"maxPositions":100,"maxRoll":16,"minRoll":1,"owner":"127.0.0.150882","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:40:54.377] Message sent to 127.0.0.1:50882, containing: {"action":"lobby_info","data":[{"id":"17143584407832048","maxPlayers":10,"maxPositions":100,"maxRoll":16,"minRoll":1,"owner":"127.0.0.150882","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 22:41:03.123] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:41:03.123] Package: {"action":"set_max_teams","data":"5"}
+[INFO 2024-04-28 22:41:03.123] package pushed into input queue.
+[INFO 2024-04-28 22:41:03.123] Package pulled from input queue.
+[INFO 2024-04-28 22:41:07.893] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:41:07.893] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:41:07.893] package pushed into input queue.
+[INFO 2024-04-28 22:41:07.893] Package pulled from input queue.
+[INFO 2024-04-28 22:41:07.893] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:41:07.901] Message sent to 127.0.0.1:50882, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:41:47.366] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:41:47.367] Package: {"action":"set_max_teams","data":"15"}
+[INFO 2024-04-28 22:41:47.367] package pushed into input queue.
+[INFO 2024-04-28 22:41:47.367] Package pulled from input queue.
+[INFO 2024-04-28 22:41:52.651] Package received from 127.0.0.1:50882
+[INFO 2024-04-28 22:41:52.652] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:41:52.652] package pushed into input queue.
+[INFO 2024-04-28 22:41:52.652] Package pulled from input queue.
+[INFO 2024-04-28 22:41:52.652] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":50882}
+[INFO 2024-04-28 22:41:52.661] Message sent to 127.0.0.1:50882, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:50882"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:42:02.259] Package received from 127.0.0.1:40493
+[INFO 2024-04-28 22:42:02.259] Package: {"action":"connect","data":"create"}
+[INFO 2024-04-28 22:42:02.259] package pushed into input queue.
+[INFO 2024-04-28 22:42:02.259] Package pulled from input queue.
+[INFO 2024-04-28 22:42:02.259] New player connected: 127.0.0.1:40493
+[INFO 2024-04-28 22:42:02.259] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":40493}
+[INFO 2024-04-28 22:42:02.265] Message sent to 127.0.0.1:40493, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:42:09.472] Package received from 127.0.0.1:40493
+[INFO 2024-04-28 22:42:09.472] Package: {"action":"set_max_teams","data":"156"}
+[INFO 2024-04-28 22:42:09.473] package pushed into input queue.
+[INFO 2024-04-28 22:42:09.473] Package pulled from input queue.
+[INFO 2024-04-28 22:42:14.656] Package received from 127.0.0.1:40493
+[INFO 2024-04-28 22:42:14.656] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:42:14.656] package pushed into input queue.
+[INFO 2024-04-28 22:42:14.656] Package pulled from input queue.
+[INFO 2024-04-28 22:42:14.656] response created: {"action":"game_info","data":"failure","ip":"127.0.0.1","port":40493}
+[INFO 2024-04-28 22:42:14.661] Message sent to 127.0.0.1:40493, containing: {"action":"game_info","data":"failure"}
+[INFO 2024-04-28 22:42:30.112] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:42:30.112] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:42:30.112] package pushed into input queue.
+[INFO 2024-04-28 22:42:30.112] Package pulled from input queue.
+[INFO 2024-04-28 22:42:30.112] New player connected: 127.0.0.1:56503
+[INFO 2024-04-28 22:42:30.113] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 22:42:30.117] Message sent to 127.0.0.1:56503, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:42:31.581] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:42:31.582] Package: {"action":"create","data":""}
+[INFO 2024-04-28 22:42:31.582] package pushed into input queue.
+[INFO 2024-04-28 22:42:31.582] Package pulled from input queue.
+[INFO 2024-04-28 22:42:31.582] response created: {"action":"create","data":"successful","ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 22:42:31.593] Message sent to 127.0.0.1:56503, containing: {"action":"create","data":"successful"}
+[INFO 2024-04-28 22:42:45.957] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:42:45.957] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:42:45.958] package pushed into input queue.
+[INFO 2024-04-28 22:42:45.958] Package pulled from input queue.
+[INFO 2024-04-28 22:43:24.243] Server starting...
+[INFO 2024-04-28 22:43:24.243] starting I/O Queues...
+[INFO 2024-04-28 22:43:24.243] I/O Queues started.
+[INFO 2024-04-28 22:43:24.243] starting Input Handling Thread...
+[INFO 2024-04-28 22:43:24.243] Input Handling started.
+[INFO 2024-04-28 22:43:24.243] starting Game Thread...
+[INFO 2024-04-28 22:43:24.243] Game Thread started.
+[INFO 2024-04-28 22:43:24.243] setting socket...
+[INFO 2024-04-28 22:43:24.243] socket set.
+[INFO 2024-04-28 22:43:24.243] Server started.
+[INFO 2024-04-28 22:43:27.897] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:43:27.897] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:43:27.897] package pushed into input queue.
+[INFO 2024-04-28 22:43:27.897] Package pulled from input queue.
+[INFO 2024-04-28 22:43:27.897] New player connected: 127.0.0.1:45613
+[INFO 2024-04-28 22:43:27.897] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 22:43:27.905] Message sent to 127.0.0.1:45613, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:43:29.402] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:43:29.402] Package: {"action":"create","data":""}
+[INFO 2024-04-28 22:43:29.402] package pushed into input queue.
+[INFO 2024-04-28 22:43:29.402] Package pulled from input queue.
+[INFO 2024-04-28 22:43:29.402] response created: {"action":"create","data":"successful","ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 22:43:29.413] Message sent to 127.0.0.1:45613, containing: {"action":"create","data":"successful"}
+[INFO 2024-04-28 22:43:33.715] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:43:33.715] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 22:43:33.715] package pushed into input queue.
+[INFO 2024-04-28 22:43:33.715] Package pulled from input queue.
+[INFO 2024-04-28 22:43:33.715] response created: {"action":"lobby_info","data":[{"id":"1714358609402277","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.145613","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 22:43:33.721] Message sent to 127.0.0.1:45613, containing: {"action":"lobby_info","data":[{"id":"1714358609402277","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.145613","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 22:43:40.812] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:43:40.813] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:43:40.813] package pushed into input queue.
+[INFO 2024-04-28 22:43:40.813] Package pulled from input queue.
+[INFO 2024-04-28 22:43:40.813] New player connected: 127.0.0.1:56503
+[INFO 2024-04-28 22:43:40.813] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 22:43:40.825] Message sent to 127.0.0.1:56503, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:43:42.534] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:43:42.535] Package: {"action":"1714358609402277","data":""}
+[INFO 2024-04-28 22:43:42.535] package pushed into input queue.
+[INFO 2024-04-28 22:43:42.535] Package pulled from input queue.
+[ERROR 2024-04-28 22:43:42.535] Bad Action: 1714358609402277
+[INFO 2024-04-28 22:43:48.398] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:43:48.399] Package: {"action":"join","data":"1714358609402277"}
+[INFO 2024-04-28 22:43:48.399] package pushed into input queue.
+[INFO 2024-04-28 22:43:48.399] Package pulled from input queue.
+[INFO 2024-04-28 22:43:48.399] response created: {"action":"join","data":"successful","ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 22:43:48.405] Message sent to 127.0.0.1:56503, containing: {"action":"join","data":"successful"}
+[INFO 2024-04-28 22:43:53.370] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:43:53.371] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:43:53.371] package pushed into input queue.
+[INFO 2024-04-28 22:43:53.371] Package pulled from input queue.
+[INFO 2024-04-28 22:43:53.371] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":":1275076080"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:56503"}]},"ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 22:43:53.377] Message sent to 127.0.0.1:56503, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":":1275076080"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:56503"}]}}
+[INFO 2024-04-28 22:44:02.519] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:44:02.519] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 22:44:02.519] package pushed into input queue.
+[INFO 2024-04-28 22:44:02.520] Package pulled from input queue.
+[INFO 2024-04-28 22:44:07.018] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:44:07.018] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:44:07.018] package pushed into input queue.
+[INFO 2024-04-28 22:44:07.018] Package pulled from input queue.
+[INFO 2024-04-28 22:44:07.018] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":":1275076080"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:56503"}]},"ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 22:44:07.025] Message sent to 127.0.0.1:45613, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":":1275076080"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:56503"}]}}
+[INFO 2024-04-28 22:44:12.740] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:44:12.740] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 22:44:12.740] package pushed into input queue.
+[INFO 2024-04-28 22:44:12.740] Package pulled from input queue.
+[INFO 2024-04-28 22:44:25.512] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:44:25.512] Package: {"action":"accept","data":"127.0.0.1:56503"}
+[INFO 2024-04-28 22:44:25.512] package pushed into input queue.
+[INFO 2024-04-28 22:44:25.512] Package pulled from input queue.
+[INFO 2024-04-28 22:44:33.343] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:44:33.343] Package: {"action":"switch","data":"team_a"}
+[INFO 2024-04-28 22:44:33.343] package pushed into input queue.
+[INFO 2024-04-28 22:44:33.343] Package pulled from input queue.
+[INFO 2024-04-28 22:44:37.365] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:44:37.365] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:44:37.365] package pushed into input queue.
+[INFO 2024-04-28 22:44:37.365] Package pulled from input queue.
+[INFO 2024-04-28 22:44:37.366] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":":1275075040"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:56503"}]},"ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 22:44:37.373] Message sent to 127.0.0.1:56503, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":":1275075040"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:56503"}]}}
+[INFO 2024-04-28 22:44:47.303] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:44:47.304] Package: {"action":"switch","data":"team_b"}
+[INFO 2024-04-28 22:44:47.304] package pushed into input queue.
+[INFO 2024-04-28 22:44:47.304] Package pulled from input queue.
+[INFO 2024-04-28 22:44:52.729] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:44:52.729] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:44:52.729] package pushed into input queue.
+[INFO 2024-04-28 22:44:52.729] Package pulled from input queue.
+[INFO 2024-04-28 22:44:52.729] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":":1275076176"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 22:44:52.737] Message sent to 127.0.0.1:45613, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":":1275076176"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:45:17.077] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:45:17.077] Package: {"action":"my_info","data":""}
+[INFO 2024-04-28 22:45:17.078] package pushed into input queue.
+[INFO 2024-04-28 22:45:17.078] Package pulled from input queue.
+[INFO 2024-04-28 22:45:17.078] response created: {"action":"lobby_info","data":{"inMatch":true,"isReady":false,"name":"127.0.0.1:45613"},"ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 22:45:17.085] Message sent to 127.0.0.1:45613, containing: {"action":"lobby_info","data":{"inMatch":true,"isReady":false,"name":"127.0.0.1:45613"}}
+[INFO 2024-04-28 22:45:19.990] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:45:19.990] Package: {"action":"my_info","data":""}
+[INFO 2024-04-28 22:45:19.990] package pushed into input queue.
+[INFO 2024-04-28 22:45:19.990] Package pulled from input queue.
+[INFO 2024-04-28 22:45:19.991] response created: {"action":"lobby_info","data":{"inMatch":true,"isReady":false,"name":"127.0.0.1:56503"},"ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 22:45:19.997] Message sent to 127.0.0.1:56503, containing: {"action":"lobby_info","data":{"inMatch":true,"isReady":false,"name":"127.0.0.1:56503"}}
+[USER 2024-04-28 22:45:55.756] stop
+[INFO 2024-04-28 22:45:55.756] Server stopping...
+[INFO 2024-04-28 22:45:55.757] Server stopped.
+[INFO 2024-04-28 22:58:23.335] Server starting...
+[INFO 2024-04-28 22:58:23.335] starting I/O Queues...
+[INFO 2024-04-28 22:58:23.335] I/O Queues started.
+[INFO 2024-04-28 22:58:23.336] starting Input Handling Thread...
+[INFO 2024-04-28 22:58:23.336] Input Handling started.
+[INFO 2024-04-28 22:58:23.336] starting Game Thread...
+[INFO 2024-04-28 22:58:23.336] Game Thread started.
+[INFO 2024-04-28 22:58:23.336] setting socket...
+[INFO 2024-04-28 22:58:23.336] socket set.
+[INFO 2024-04-28 22:58:23.336] Server started.
+[INFO 2024-04-28 22:58:25.750] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:58:25.751] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:58:25.751] package pushed into input queue.
+[INFO 2024-04-28 22:58:25.751] Package pulled from input queue.
+[INFO 2024-04-28 22:58:25.751] New player connected: 127.0.0.1:56503
+[INFO 2024-04-28 22:58:25.751] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 22:58:25.757] Message sent to 127.0.0.1:56503, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:58:27.943] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:58:27.943] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 22:58:27.943] package pushed into input queue.
+[INFO 2024-04-28 22:58:27.943] Package pulled from input queue.
+[INFO 2024-04-28 22:58:27.943] New player connected: 127.0.0.1:45613
+[INFO 2024-04-28 22:58:27.943] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 22:58:27.949] Message sent to 127.0.0.1:45613, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 22:58:31.545] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:58:31.546] Package: {"action":"create","data":""}
+[INFO 2024-04-28 22:58:31.546] package pushed into input queue.
+[INFO 2024-04-28 22:58:31.546] Package pulled from input queue.
+[INFO 2024-04-28 22:58:31.546] response created: {"action":"create","data":"successful","ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 22:58:31.557] Message sent to 127.0.0.1:45613, containing: {"action":"create","data":"successful"}
+[INFO 2024-04-28 22:58:35.118] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:58:35.118] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:58:35.119] package pushed into input queue.
+[INFO 2024-04-28 22:58:35.119] Package pulled from input queue.
+[INFO 2024-04-28 22:58:35.119] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 22:58:35.125] Message sent to 127.0.0.1:45613, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:58:40.727] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:58:40.727] Package: {"action":"switch","data":"team_b"}
+[INFO 2024-04-28 22:58:40.727] package pushed into input queue.
+[INFO 2024-04-28 22:58:40.727] Package pulled from input queue.
+[INFO 2024-04-28 22:58:44.137] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:58:44.137] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:58:44.137] package pushed into input queue.
+[INFO 2024-04-28 22:58:44.137] Package pulled from input queue.
+[INFO 2024-04-28 22:58:44.137] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 22:58:44.149] Message sent to 127.0.0.1:45613, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:58:55.901] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:58:55.901] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 22:58:55.901] package pushed into input queue.
+[INFO 2024-04-28 22:58:55.901] Package pulled from input queue.
+[INFO 2024-04-28 22:58:55.901] response created: {"action":"lobby_info","data":[{"id":"17143595115468164","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.145613","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 22:58:55.909] Message sent to 127.0.0.1:45613, containing: {"action":"lobby_info","data":[{"id":"17143595115468164","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.145613","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 22:58:59.542] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:58:59.542] Package: {"action":"join","data":"17143595115468164"}
+[INFO 2024-04-28 22:58:59.542] package pushed into input queue.
+[INFO 2024-04-28 22:58:59.542] Package pulled from input queue.
+[INFO 2024-04-28 22:58:59.542] response created: {"action":"join","data":"successful","ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 22:58:59.549] Message sent to 127.0.0.1:56503, containing: {"action":"join","data":"successful"}
+[INFO 2024-04-28 22:59:03.123] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:59:03.123] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:59:03.124] package pushed into input queue.
+[INFO 2024-04-28 22:59:03.124] Package pulled from input queue.
+[INFO 2024-04-28 22:59:03.124] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:56503"}]},"ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 22:59:03.129] Message sent to 127.0.0.1:56503, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:56503"}]}}
+[INFO 2024-04-28 22:59:10.826] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:59:10.826] Package: {"action":"switch","data":"team_b"}
+[INFO 2024-04-28 22:59:10.826] package pushed into input queue.
+[INFO 2024-04-28 22:59:10.826] Package pulled from input queue.
+[INFO 2024-04-28 22:59:14.943] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:59:14.944] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:59:14.944] package pushed into input queue.
+[INFO 2024-04-28 22:59:14.944] Package pulled from input queue.
+[INFO 2024-04-28 22:59:14.944] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[{"name":"127.0.0.1:56503"}],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 22:59:14.949] Message sent to 127.0.0.1:56503, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[{"name":"127.0.0.1:56503"}],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 22:59:26.812] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 22:59:26.812] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 22:59:26.812] package pushed into input queue.
+[INFO 2024-04-28 22:59:26.812] Package pulled from input queue.
+[INFO 2024-04-28 22:59:29.313] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:59:29.313] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 22:59:29.313] package pushed into input queue.
+[INFO 2024-04-28 22:59:29.313] Package pulled from input queue.
+[INFO 2024-04-28 22:59:33.979] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 22:59:33.979] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 22:59:33.979] package pushed into input queue.
+[INFO 2024-04-28 22:59:33.979] Package pulled from input queue.
+[INFO 2024-04-28 22:59:33.980] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[{"name":"127.0.0.1:56503"}],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 23:02:35.292] Server starting...
+[INFO 2024-04-28 23:02:35.292] starting I/O Queues...
+[INFO 2024-04-28 23:02:35.292] I/O Queues started.
+[INFO 2024-04-28 23:02:35.292] starting Input Handling Thread...
+[INFO 2024-04-28 23:02:35.292] Input Handling started.
+[INFO 2024-04-28 23:02:35.292] starting Game Thread...
+[INFO 2024-04-28 23:02:35.292] Game Thread started.
+[INFO 2024-04-28 23:02:35.292] setting socket...
+[INFO 2024-04-28 23:02:35.292] socket set.
+[INFO 2024-04-28 23:02:35.292] Server started.
+[INFO 2024-04-28 23:02:39.398] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 23:02:39.398] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 23:02:39.398] package pushed into input queue.
+[INFO 2024-04-28 23:02:39.398] Package pulled from input queue.
+[INFO 2024-04-28 23:02:39.398] New player connected: 127.0.0.1:56503
+[INFO 2024-04-28 23:02:39.398] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 23:02:39.409] Message sent to 127.0.0.1:56503, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 23:02:42.323] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 23:02:42.323] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 23:02:42.324] package pushed into input queue.
+[INFO 2024-04-28 23:02:42.324] Package pulled from input queue.
+[INFO 2024-04-28 23:02:42.324] New player connected: 127.0.0.1:45613
+[INFO 2024-04-28 23:02:42.324] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 23:02:42.329] Message sent to 127.0.0.1:45613, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 23:02:44.962] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 23:02:44.962] Package: {"action":"create","data":""}
+[INFO 2024-04-28 23:02:44.962] package pushed into input queue.
+[INFO 2024-04-28 23:02:44.962] Package pulled from input queue.
+[INFO 2024-04-28 23:02:44.963] response created: {"action":"create","data":"successful","ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 23:02:44.969] Message sent to 127.0.0.1:56503, containing: {"action":"create","data":"successful"}
+[INFO 2024-04-28 23:02:48.585] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 23:02:48.585] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 23:02:48.585] package pushed into input queue.
+[INFO 2024-04-28 23:02:48.585] Package pulled from input queue.
+[INFO 2024-04-28 23:02:48.585] response created: {"action":"lobby_info","data":[{"id":"17143597649622791","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.156503","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 23:02:48.593] Message sent to 127.0.0.1:56503, containing: {"action":"lobby_info","data":[{"id":"17143597649622791","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.156503","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 23:02:55.401] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 23:02:55.401] Package: {"action":"join","data":"17143597649622791"}
+[INFO 2024-04-28 23:02:55.401] package pushed into input queue.
+[INFO 2024-04-28 23:02:55.401] Package pulled from input queue.
+[INFO 2024-04-28 23:02:55.401] response created: {"action":"join","data":"successful","ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 23:02:55.409] Message sent to 127.0.0.1:45613, containing: {"action":"join","data":"successful"}
+[INFO 2024-04-28 23:03:40.557] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 23:03:40.557] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 23:03:40.558] package pushed into input queue.
+[INFO 2024-04-28 23:03:40.558] Package pulled from input queue.
+[INFO 2024-04-28 23:03:40.558] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:56503"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:45613"}]},"ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 23:03:40.565] Message sent to 127.0.0.1:56503, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:56503"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:45613"}]}}
+[INFO 2024-04-28 23:03:45.604] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 23:03:45.604] Package: {"action":"my_info","data":""}
+[INFO 2024-04-28 23:03:45.605] package pushed into input queue.
+[INFO 2024-04-28 23:03:45.605] Package pulled from input queue.
+[INFO 2024-04-28 23:03:45.605] response created: {"action":"lobby_info","data":{"inMatch":true,"isReady":false,"name":"127.0.0.1:56503"},"ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 23:03:45.613] Message sent to 127.0.0.1:56503, containing: {"action":"lobby_info","data":{"inMatch":true,"isReady":false,"name":"127.0.0.1:56503"}}
+[INFO 2024-04-28 23:03:51.103] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 23:03:51.103] Package: {"action":"my_info","data":""}
+[INFO 2024-04-28 23:03:51.103] package pushed into input queue.
+[INFO 2024-04-28 23:03:51.103] Package pulled from input queue.
+[INFO 2024-04-28 23:03:51.103] response created: {"action":"lobby_info","data":{"inMatch":true,"isReady":false,"name":"127.0.0.1:45613"},"ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 23:03:51.109] Message sent to 127.0.0.1:45613, containing: {"action":"lobby_info","data":{"inMatch":true,"isReady":false,"name":"127.0.0.1:45613"}}
+[INFO 2024-04-28 23:04:00.011] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 23:04:00.011] Package: {"action":"switch","data":"team_b"}
+[INFO 2024-04-28 23:04:00.011] package pushed into input queue.
+[INFO 2024-04-28 23:04:00.011] Package pulled from input queue.
+[INFO 2024-04-28 23:04:04.681] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 23:04:04.681] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 23:04:04.681] package pushed into input queue.
+[INFO 2024-04-28 23:04:04.681] Package pulled from input queue.
+[INFO 2024-04-28 23:04:04.682] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:56503"}],"score":0},{"name":"team_b","players":[{"name":"127.0.0.1:45613"}],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 23:04:04.689] Message sent to 127.0.0.1:45613, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:56503"}],"score":0},{"name":"team_b","players":[{"name":"127.0.0.1:45613"}],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 23:04:07.656] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 23:04:07.656] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 23:04:07.656] package pushed into input queue.
+[INFO 2024-04-28 23:04:07.656] Package pulled from input queue.
+[INFO 2024-04-28 23:04:11.055] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 23:04:11.055] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 23:04:11.055] package pushed into input queue.
+[INFO 2024-04-28 23:04:11.055] Package pulled from input queue.
+[INFO 2024-04-28 23:04:17.262] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 23:04:17.263] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 23:04:17.263] package pushed into input queue.
+[INFO 2024-04-28 23:04:17.263] Package pulled from input queue.
+[INFO 2024-04-28 23:04:17.263] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:56503"}],"score":0},{"name":"team_b","players":[{"name":"127.0.0.1:45613"}],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":56503}
+[INFO 2024-04-28 23:04:17.273] Message sent to 127.0.0.1:56503, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:56503"}],"score":0},{"name":"team_b","players":[{"name":"127.0.0.1:45613"}],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 23:04:27.589] Package received from 127.0.0.1:56503
+[INFO 2024-04-28 23:04:27.589] Package: {"action":"roll","data":"5"}
+[INFO 2024-04-28 23:04:27.589] package pushed into input queue.
+[INFO 2024-04-28 23:04:27.589] Package pulled from input queue.
+[INFO 2024-04-28 23:17:42.133] Server starting...
+[INFO 2024-04-28 23:17:42.133] starting I/O Queues...
+[INFO 2024-04-28 23:17:42.133] I/O Queues started.
+[INFO 2024-04-28 23:17:42.133] starting Input Handling Thread...
+[INFO 2024-04-28 23:17:42.133] Input Handling started.
+[INFO 2024-04-28 23:17:42.133] starting Game Thread...
+[INFO 2024-04-28 23:17:42.133] Game Thread started.
+[INFO 2024-04-28 23:17:42.133] setting socket...
+[INFO 2024-04-28 23:17:42.133] socket set.
+[INFO 2024-04-28 23:17:42.133] Server started.
+[INFO 2024-04-28 23:17:58.994] Package received from 127.0.0.1:53580
+[INFO 2024-04-28 23:17:58.994] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 23:17:58.994] package pushed into input queue.
+[INFO 2024-04-28 23:17:58.994] Package pulled from input queue.
+[INFO 2024-04-28 23:17:58.994] New player connected: 127.0.0.1:53580
+[INFO 2024-04-28 23:17:58.994] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":53580}
+[INFO 2024-04-28 23:17:59.001] Message sent to 127.0.0.1:53580, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 23:18:02.016] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 23:18:02.016] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 23:18:02.016] package pushed into input queue.
+[INFO 2024-04-28 23:18:02.016] Package pulled from input queue.
+[INFO 2024-04-28 23:18:02.016] New player connected: 127.0.0.1:45613
+[INFO 2024-04-28 23:18:02.016] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 23:18:02.021] Message sent to 127.0.0.1:45613, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 23:18:07.470] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 23:18:07.470] Package: {"action":"create","data":""}
+[INFO 2024-04-28 23:18:07.470] package pushed into input queue.
+[INFO 2024-04-28 23:18:07.470] Package pulled from input queue.
+[INFO 2024-04-28 23:18:07.470] response created: {"action":"create","data":"successful","ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 23:18:07.477] Message sent to 127.0.0.1:45613, containing: {"action":"create","data":"successful"}
+[INFO 2024-04-28 23:18:14.526] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 23:18:14.526] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 23:18:14.526] package pushed into input queue.
+[INFO 2024-04-28 23:18:14.526] Package pulled from input queue.
+[INFO 2024-04-28 23:18:14.526] response created: {"action":"lobby_info","data":[{"id":"17143606874709059","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.145613","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 23:18:14.537] Message sent to 127.0.0.1:45613, containing: {"action":"lobby_info","data":[{"id":"17143606874709059","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.145613","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 23:18:23.829] Package received from 127.0.0.1:53580
+[INFO 2024-04-28 23:18:23.829] Package: {"action":"join","data":""}
+[INFO 2024-04-28 23:18:23.829] package pushed into input queue.
+[INFO 2024-04-28 23:18:23.829] Package pulled from input queue.
+[INFO 2024-04-28 23:18:23.829] response created: {"action":"join","data":"failure","ip":"127.0.0.1","port":53580}
+[INFO 2024-04-28 23:18:23.837] Message sent to 127.0.0.1:53580, containing: {"action":"join","data":"failure"}
+[INFO 2024-04-28 23:18:26.591] Package received from 127.0.0.1:53580
+[INFO 2024-04-28 23:18:26.591] Package: {"action":"join","data":"17143606874709059"}
+[INFO 2024-04-28 23:18:26.591] package pushed into input queue.
+[INFO 2024-04-28 23:18:26.591] Package pulled from input queue.
+[INFO 2024-04-28 23:18:26.591] response created: {"action":"join","data":"successful","ip":"127.0.0.1","port":53580}
+[INFO 2024-04-28 23:18:26.601] Message sent to 127.0.0.1:53580, containing: {"action":"join","data":"successful"}
+[INFO 2024-04-28 23:18:38.705] Package received from 127.0.0.1:53580
+[INFO 2024-04-28 23:18:38.705] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 23:18:38.705] package pushed into input queue.
+[INFO 2024-04-28 23:18:38.705] Package pulled from input queue.
+[INFO 2024-04-28 23:18:38.705] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:53580"}]},"ip":"127.0.0.1","port":53580}
+[INFO 2024-04-28 23:18:38.713] Message sent to 127.0.0.1:53580, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[],"score":0}],"waiting":[{"desired_team":"team_a","name":"127.0.0.1:53580"}]}}
+[INFO 2024-04-28 23:18:52.404] Package received from 127.0.0.1:53580
+[INFO 2024-04-28 23:18:52.404] Package: {"action":"my_info","data":""}
+[INFO 2024-04-28 23:18:52.405] package pushed into input queue.
+[INFO 2024-04-28 23:18:52.405] Package pulled from input queue.
+[INFO 2024-04-28 23:18:52.405] response created: {"action":"lobby_info","data":{"inMatch":true,"isReady":false,"name":"127.0.0.1:53580"},"ip":"127.0.0.1","port":53580}
+[INFO 2024-04-28 23:18:52.413] Message sent to 127.0.0.1:53580, containing: {"action":"lobby_info","data":{"inMatch":true,"isReady":false,"name":"127.0.0.1:53580"}}
+[INFO 2024-04-28 23:19:01.506] Package received from 127.0.0.1:53580
+[INFO 2024-04-28 23:19:01.506] Package: {"action":"switch","data":"team_b"}
+[INFO 2024-04-28 23:19:01.506] package pushed into input queue.
+[INFO 2024-04-28 23:19:01.506] Package pulled from input queue.
+[INFO 2024-04-28 23:19:05.216] Package received from 127.0.0.1:53580
+[INFO 2024-04-28 23:19:05.216] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 23:19:05.216] package pushed into input queue.
+[INFO 2024-04-28 23:19:05.216] Package pulled from input queue.
+[INFO 2024-04-28 23:19:05.216] response created: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[{"name":"127.0.0.1:53580"}],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":53580}
+[INFO 2024-04-28 23:19:05.221] Message sent to 127.0.0.1:53580, containing: {"action":"game_info","data":{"round":0,"teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[{"name":"127.0.0.1:53580"}],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 23:19:25.420] Package received from 127.0.0.1:53580
+[INFO 2024-04-28 23:19:25.421] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 23:19:25.421] package pushed into input queue.
+[INFO 2024-04-28 23:19:25.421] Package pulled from input queue.
+[INFO 2024-04-28 23:19:36.440] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 23:19:36.440] Package: {"action":"ready","data":""}
+[INFO 2024-04-28 23:19:36.440] package pushed into input queue.
+[INFO 2024-04-28 23:19:36.440] Package pulled from input queue.
+[INFO 2024-04-28 23:19:42.516] Package received from 127.0.0.1:53580
+[INFO 2024-04-28 23:19:42.516] Package: {"action":"game_info","data":""}
+[INFO 2024-04-28 23:19:42.516] package pushed into input queue.
+[INFO 2024-04-28 23:19:42.516] Package pulled from input queue.
+[INFO 2024-04-28 23:19:42.517] response created: {"action":"game_info","data":{"round":1,"team_turno":"team_a","teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[{"name":"127.0.0.1:53580"}],"score":0}],"waiting":[]},"ip":"127.0.0.1","port":53580}
+[INFO 2024-04-28 23:19:42.525] Message sent to 127.0.0.1:53580, containing: {"action":"game_info","data":{"round":1,"team_turno":"team_a","teams":[{"name":"team_a","players":[{"name":"127.0.0.1:45613"}],"score":0},{"name":"team_b","players":[{"name":"127.0.0.1:53580"}],"score":0}],"waiting":[]}}
+[INFO 2024-04-28 23:19:51.444] Package received from 127.0.0.1:45613
+[INFO 2024-04-28 23:19:51.444] Package: {"action":"my_info","data":""}
+[INFO 2024-04-28 23:19:51.444] package pushed into input queue.
+[INFO 2024-04-28 23:19:51.444] Package pulled from input queue.
+[INFO 2024-04-28 23:19:51.444] response created: {"action":"lobby_info","data":{"inMatch":true,"isReady":true,"name":"127.0.0.1:45613"},"ip":"127.0.0.1","port":45613}
+[INFO 2024-04-28 23:25:33.527] Server starting...
+[INFO 2024-04-28 23:25:33.527] starting I/O Queues...
+[INFO 2024-04-28 23:25:33.527] I/O Queues started.
+[INFO 2024-04-28 23:25:33.527] starting Input Handling Thread...
+[INFO 2024-04-28 23:25:33.527] Input Handling started.
+[INFO 2024-04-28 23:25:33.527] starting Game Thread...
+[INFO 2024-04-28 23:25:33.527] Game Thread started.
+[INFO 2024-04-28 23:25:33.527] setting socket...
+[INFO 2024-04-28 23:25:33.527] socket set.
+[INFO 2024-04-28 23:25:33.527] Server started.
+[INFO 2024-04-28 23:25:36.603] Package received from 127.0.0.1:40072
+[INFO 2024-04-28 23:25:36.603] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 23:25:36.603] package pushed into input queue.
+[INFO 2024-04-28 23:25:36.604] Package pulled from input queue.
+[INFO 2024-04-28 23:25:36.604] New player connected: 127.0.0.1:40072
+[INFO 2024-04-28 23:25:36.604] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":40072}
+[INFO 2024-04-28 23:25:36.609] Message sent to 127.0.0.1:40072, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 23:25:38.607] Package received from 127.0.0.1:40072
+[INFO 2024-04-28 23:25:38.607] Package: {"action":"create","data":""}
+[INFO 2024-04-28 23:25:38.607] package pushed into input queue.
+[INFO 2024-04-28 23:25:38.607] Package pulled from input queue.
+[INFO 2024-04-28 23:25:38.607] response created: {"action":"create","data":"successful","ip":"127.0.0.1","port":40072}
+[INFO 2024-04-28 23:25:38.617] Message sent to 127.0.0.1:40072, containing: {"action":"create","data":"successful"}
+[INFO 2024-04-28 23:25:44.574] Package received from 127.0.0.1:53316
+[INFO 2024-04-28 23:25:44.575] Package: {"action":"connect","data":""}
+[INFO 2024-04-28 23:25:44.575] package pushed into input queue.
+[INFO 2024-04-28 23:25:44.575] Package pulled from input queue.
+[INFO 2024-04-28 23:25:44.575] New player connected: 127.0.0.1:53316
+[INFO 2024-04-28 23:25:44.575] response created: {"action":"connect","data":"successful","ip":"127.0.0.1","port":53316}
+[INFO 2024-04-28 23:25:44.581] Message sent to 127.0.0.1:53316, containing: {"action":"connect","data":"successful"}
+[INFO 2024-04-28 23:25:46.842] Package received from 127.0.0.1:53316
+[INFO 2024-04-28 23:25:46.842] Package: {"action":"create","data":""}
+[INFO 2024-04-28 23:25:46.842] package pushed into input queue.
+[INFO 2024-04-28 23:25:46.842] Package pulled from input queue.
+[INFO 2024-04-28 23:25:46.842] response created: {"action":"create","data":"successful","ip":"127.0.0.1","port":53316}
+[INFO 2024-04-28 23:25:46.849] Message sent to 127.0.0.1:53316, containing: {"action":"create","data":"successful"}
+[INFO 2024-04-28 23:25:50.559] Package received from 127.0.0.1:53316
+[INFO 2024-04-28 23:25:50.559] Package: {"action":"lobby_info","data":""}
+[INFO 2024-04-28 23:25:50.559] package pushed into input queue.
+[INFO 2024-04-28 23:25:50.559] Package pulled from input queue.
+[INFO 2024-04-28 23:25:50.559] response created: {"action":"lobby_info","data":[{"id":"17143611386071325","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"1207963552","players":1,"status":"in lobby"},{"id":"17143611468424045","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.153316","players":1,"status":"in lobby"}],"ip":"127.0.0.1","port":53316}
+[INFO 2024-04-28 23:25:50.565] Message sent to 127.0.0.1:53316, containing: {"action":"lobby_info","data":[{"id":"17143611386071325","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"1207963552","players":1,"status":"in lobby"},{"id":"17143611468424045","maxPlayers":10,"maxPositions":100,"maxRoll":6,"minRoll":1,"owner":"127.0.0.153316","players":1,"status":"in lobby"}]}
+[INFO 2024-04-28 23:26:04.819] Package received from 127.0.0.1:53316
+[INFO 2024-04-28 23:26:04.819] Package: {"action":"create","data":""}
+[INFO 2024-04-28 23:26:04.819] package pushed into input queue.
+[INFO 2024-04-28 23:26:04.819] Package pulled from input queue.
+[USER 2024-04-28 23:26:49.178] stop
+[INFO 2024-04-28 23:26:49.178] Server stopping...
+[INFO 2024-04-28 23:26:49.185] Server stopped.
